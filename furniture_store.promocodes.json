@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "669f69559bf9f595a3703efd"
+  },
+  "code": "CL 827271525VND",
+  "type": "coupon",
+  "discount": 20,
+  "startDate": {
+    "$date": "2024-07-22T17:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-07-23T17:00:00.000Z"
+  },
+  "currentUses": 1,
+  "maxUsage": 1,
+  "active": false,
+  "createdAt": {
+    "$date": "2024-07-23T08:27:01.377Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T08:58:29.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36560d4d8822a0c8f944f"
+  },
+  "code": "CL827271750VN",
+  "type": "voucher",
+  "discount": 20,
+  "startDate": {
+    "$date": "2024-06-11T17:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-07-24T17:00:00.000Z"
+  },
+  "currentUses": 0,
+  "maxUsage": 10,
+  "active": false,
+  "createdAt": {
+    "$date": "2024-07-26T08:59:12.382Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T08:59:45.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36597d4d8822a0c8f9464"
+  },
+  "code": "CL 827271525VN",
+  "type": "voucher",
+  "discount": 10,
+  "startDate": {
+    "$date": "2024-07-25T17:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-07-28T17:00:00.000Z"
+  },
+  "currentUses": 1,
+  "maxUsage": 10,
+  "active": true,
+  "createdAt": {
+    "$date": "2024-07-26T09:00:07.215Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T09:21:03.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36e14d4d8822a0c8fa4a0"
+  },
+  "code": "WSD10",
+  "type": "coupon",
+  "discount": 10,
+  "startDate": {
+    "$date": "2024-07-25T17:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-08-02T17:00:00.000Z"
+  },
+  "currentUses": 0,
+  "maxUsage": 200,
+  "active": true,
+  "createdAt": {
+    "$date": "2024-07-26T09:36:20.425Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T09:36:20.425Z"
+  },
+  "__v": 0
+}]

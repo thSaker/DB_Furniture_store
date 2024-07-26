@@ -1,0 +1,968 @@
+[{
+  "_id": {
+    "$oid": "669f69859bf9f595a3703f15"
+  },
+  "user": {
+    "$oid": "669f5931be83a04d9966037e"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "669f67aa9bf9f595a3703c79"
+      },
+      "color": {
+        "$oid": "669f67aa9bf9f595a3703c7a"
+      },
+      "quantity": 1,
+      "itemPrice": 592,
+      "_id": {
+        "$oid": "669f69859bf9f595a3703f16"
+      }
+    }
+  ],
+  "totalAmount": 484,
+  "paymentMethod": "cod",
+  "paymentStatus": "paid",
+  "orderStatus": "completed",
+  "shippingAddress": {
+    "firstName": "Phan Thanh",
+    "lastName": "Duy",
+    "email": "phanthanhduy2610@gmail.com",
+    "phoneNumber": "0344134844",
+    "city": {
+      "id": "06",
+      "name": "Bắc Kạn",
+      "name_en": "Bac Kan",
+      "full_name": "Tỉnh Bắc Kạn",
+      "full_name_en": "Bac Kan Province",
+      "latitude": "22.2571701",
+      "longitude": "105.8204437"
+    },
+    "district": {
+      "id": "063",
+      "name": "Bạch Thông",
+      "name_en": "Bach Thong",
+      "full_name": "Huyện Bạch Thông",
+      "full_name_en": "Bach Thong District",
+      "latitude": "22.20210065",
+      "longitude": "105.9357949031498"
+    },
+    "ward": {
+      "id": "02014",
+      "name": "Dương Phong",
+      "name_en": "Duong Phong",
+      "full_name": "Xã Dương Phong",
+      "full_name_en": "Duong Phong Commune",
+      "latitude": "",
+      "longitude": ""
+    },
+    "addressLine": "Bắc Kạn, Đắc Nông"
+  },
+  "promoCode": {
+    "$oid": "669f69559bf9f595a3703efd"
+  },
+  "discount": 118,
+  "shippingFee": 10,
+  "subTotal": 592,
+  "createdAt": {
+    "$date": "2024-07-23T08:27:49.923Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:28:16.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f6a109bf9f595a3704056"
+  },
+  "user": {
+    "$oid": "669f5931be83a04d9966037e"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "669f67aa9bf9f595a3703c79"
+      },
+      "color": {
+        "$oid": "669f67df9bf9f595a3703cc8"
+      },
+      "quantity": 1,
+      "itemPrice": 592,
+      "_id": {
+        "$oid": "669f6a109bf9f595a3704057"
+      }
+    }
+  ],
+  "totalAmount": 602,
+  "paymentMethod": "paypal",
+  "paymentStatus": "paid",
+  "orderStatus": "delivered",
+  "shippingAddress": {
+    "firstName": "Phan Thanh",
+    "lastName": "Duy",
+    "email": "phanthanhduy2610@gmail.com",
+    "phoneNumber": "0344134844",
+    "city": {
+      "id": "06",
+      "name": "Bắc Kạn",
+      "name_en": "Bac Kan",
+      "full_name": "Tỉnh Bắc Kạn",
+      "full_name_en": "Bac Kan Province",
+      "latitude": "22.2571701",
+      "longitude": "105.8204437"
+    },
+    "district": {
+      "id": "063",
+      "name": "Bạch Thông",
+      "name_en": "Bach Thong",
+      "full_name": "Huyện Bạch Thông",
+      "full_name_en": "Bach Thong District",
+      "latitude": "22.20210065",
+      "longitude": "105.9357949031498"
+    },
+    "ward": {
+      "id": "02014",
+      "name": "Dương Phong",
+      "name_en": "Duong Phong",
+      "full_name": "Xã Dương Phong",
+      "full_name_en": "Duong Phong Commune",
+      "latitude": "",
+      "longitude": ""
+    },
+    "addressLine": "Bắc Kạn, Đắc Nông"
+  },
+  "discount": 0,
+  "shippingFee": 10,
+  "subTotal": 10,
+  "createdAt": {
+    "$date": "2024-07-23T08:30:08.383Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:32:08.769Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f6a5e9bf9f595a370413c"
+  },
+  "user": {
+    "$oid": "669f5931be83a04d9966037e"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "669f63939bf9f595a37038c9"
+      },
+      "color": {
+        "$oid": "669f63939bf9f595a37038ca"
+      },
+      "quantity": 1,
+      "itemPrice": 212,
+      "_id": {
+        "$oid": "669f6a5e9bf9f595a370413d"
+      }
+    }
+  ],
+  "totalAmount": 222,
+  "paymentMethod": "cod",
+  "paymentStatus": "paid",
+  "orderStatus": "completed",
+  "shippingAddress": {
+    "firstName": "Phan Thanh",
+    "lastName": "Duy",
+    "email": "phanthanhduy2610@gmail.com",
+    "phoneNumber": "0344134844",
+    "city": {
+      "id": "06",
+      "name": "Bắc Kạn",
+      "name_en": "Bac Kan",
+      "full_name": "Tỉnh Bắc Kạn",
+      "full_name_en": "Bac Kan Province",
+      "latitude": "22.2571701",
+      "longitude": "105.8204437"
+    },
+    "district": {
+      "id": "063",
+      "name": "Bạch Thông",
+      "name_en": "Bach Thong",
+      "full_name": "Huyện Bạch Thông",
+      "full_name_en": "Bach Thong District",
+      "latitude": "22.20210065",
+      "longitude": "105.9357949031498"
+    },
+    "ward": {
+      "id": "02014",
+      "name": "Dương Phong",
+      "name_en": "Duong Phong",
+      "full_name": "Xã Dương Phong",
+      "full_name_en": "Duong Phong Commune",
+      "latitude": "",
+      "longitude": ""
+    },
+    "addressLine": "Bắc Kạn, Đắc Nông"
+  },
+  "discount": 0,
+  "shippingFee": 10,
+  "subTotal": 212,
+  "createdAt": {
+    "$date": "2024-07-23T08:31:26.957Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:50:30.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f57ef174c32ab6b28172"
+  },
+  "user": {
+    "$oid": "669f5931be83a04d9966037e"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "669f62f49bf9f595a370385d"
+      },
+      "color": {
+        "$oid": "669f62f49bf9f595a370385e"
+      },
+      "quantity": 1,
+      "itemPrice": 496,
+      "_id": {
+        "$oid": "66a1f57ef174c32ab6b28173"
+      }
+    },
+    {
+      "product": {
+        "$oid": "66a093ae36c945e0292944e1"
+      },
+      "color": {
+        "$oid": "66a093ae36c945e0292944e2"
+      },
+      "quantity": 1,
+      "itemPrice": 1050,
+      "_id": {
+        "$oid": "66a1f57ef174c32ab6b28174"
+      }
+    }
+  ],
+  "totalAmount": 1556,
+  "paymentMethod": "cod",
+  "paymentStatus": "paid",
+  "orderStatus": "shipping",
+  "shippingAddress": {
+    "firstName": "Phan Thanh",
+    "lastName": "Duy",
+    "email": "phanthanhduy2610@gmail.com",
+    "phoneNumber": "0344134844",
+    "city": {
+      "id": "06",
+      "name": "Bắc Kạn",
+      "name_en": "Bac Kan",
+      "full_name": "Tỉnh Bắc Kạn",
+      "full_name_en": "Bac Kan Province",
+      "latitude": "22.2571701",
+      "longitude": "105.8204437"
+    },
+    "district": {
+      "id": "063",
+      "name": "Bạch Thông",
+      "name_en": "Bach Thong",
+      "full_name": "Huyện Bạch Thông",
+      "full_name_en": "Bach Thong District",
+      "latitude": "22.20210065",
+      "longitude": "105.9357949031498"
+    },
+    "ward": {
+      "id": "02014",
+      "name": "Dương Phong",
+      "name_en": "Duong Phong",
+      "full_name": "Xã Dương Phong",
+      "full_name_en": "Duong Phong Commune",
+      "latitude": "",
+      "longitude": ""
+    },
+    "addressLine": "Bắc Kạn, Đắc Nông"
+  },
+  "discount": 0,
+  "shippingFee": 10,
+  "subTotal": 1546,
+  "createdAt": {
+    "$date": "2024-06-25T06:49:34.866Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T06:50:33.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f597f174c32ab6b28243"
+  },
+  "user": {
+    "$oid": "669f5931be83a04d9966037e"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "669f649d9bf9f595a37038f8"
+      },
+      "color": {
+        "$oid": "669f649d9bf9f595a37038f9"
+      },
+      "quantity": 1,
+      "itemPrice": 552,
+      "_id": {
+        "$oid": "66a1f597f174c32ab6b28244"
+      }
+    }
+  ],
+  "totalAmount": 562,
+  "paymentMethod": "cod",
+  "paymentStatus": "paid",
+  "orderStatus": "pending",
+  "shippingAddress": {
+    "firstName": "Phan Thanh",
+    "lastName": "Duy",
+    "email": "phanthanhduy2610@gmail.com",
+    "phoneNumber": "0344134844",
+    "city": {
+      "id": "06",
+      "name": "Bắc Kạn",
+      "name_en": "Bac Kan",
+      "full_name": "Tỉnh Bắc Kạn",
+      "full_name_en": "Bac Kan Province",
+      "latitude": "22.2571701",
+      "longitude": "105.8204437"
+    },
+    "district": {
+      "id": "063",
+      "name": "Bạch Thông",
+      "name_en": "Bach Thong",
+      "full_name": "Huyện Bạch Thông",
+      "full_name_en": "Bach Thong District",
+      "latitude": "22.20210065",
+      "longitude": "105.9357949031498"
+    },
+    "ward": {
+      "id": "02014",
+      "name": "Dương Phong",
+      "name_en": "Duong Phong",
+      "full_name": "Xã Dương Phong",
+      "full_name_en": "Duong Phong Commune",
+      "latitude": "",
+      "longitude": ""
+    },
+    "addressLine": "Bắc Kạn, Đắc Nông"
+  },
+  "discount": 0,
+  "shippingFee": 10,
+  "subTotal": 552,
+  "createdAt": {
+    "$date": "2024-07-23T06:49:59.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T06:50:26.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f614f174c32ab6b28568"
+  },
+  "user": {
+    "$oid": "669f5931be83a04d9966037e"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "66a0944136c945e029294526"
+      },
+      "color": {
+        "$oid": "66a0944136c945e029294527"
+      },
+      "quantity": 1,
+      "itemPrice": 1120,
+      "_id": {
+        "$oid": "66a1f614f174c32ab6b28569"
+      }
+    }
+  ],
+  "totalAmount": 1130,
+  "paymentMethod": "cod",
+  "paymentStatus": "paid",
+  "orderStatus": "delivered",
+  "shippingAddress": {
+    "firstName": "Phan Thanh",
+    "lastName": "Duy",
+    "email": "phanthanhduy2610@gmail.com",
+    "phoneNumber": "0344134844",
+    "city": {
+      "id": "06",
+      "name": "Bắc Kạn",
+      "name_en": "Bac Kan",
+      "full_name": "Tỉnh Bắc Kạn",
+      "full_name_en": "Bac Kan Province",
+      "latitude": "22.2571701",
+      "longitude": "105.8204437"
+    },
+    "district": {
+      "id": "063",
+      "name": "Bạch Thông",
+      "name_en": "Bach Thong",
+      "full_name": "Huyện Bạch Thông",
+      "full_name_en": "Bach Thong District",
+      "latitude": "22.20210065",
+      "longitude": "105.9357949031498"
+    },
+    "ward": {
+      "id": "02014",
+      "name": "Dương Phong",
+      "name_en": "Duong Phong",
+      "full_name": "Xã Dương Phong",
+      "full_name_en": "Duong Phong Commune",
+      "latitude": "",
+      "longitude": ""
+    },
+    "addressLine": "Bắc Kạn, Đắc Nông"
+  },
+  "discount": 0,
+  "shippingFee": 10,
+  "subTotal": 1120,
+  "createdAt": {
+    "$date": "2024-07-25T06:52:04.345Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:52:19.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a361fed4d8822a0c8f915b"
+  },
+  "user": {
+    "$oid": "669f5931be83a04d9966037e"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "669f63939bf9f595a37038c9"
+      },
+      "color": {
+        "$oid": "669f63939bf9f595a37038ca"
+      },
+      "quantity": 2,
+      "itemPrice": 424,
+      "_id": {
+        "$oid": "66a361fed4d8822a0c8f915c"
+      }
+    }
+  ],
+  "totalAmount": 434,
+  "paymentMethod": "cod",
+  "paymentStatus": "paid",
+  "orderStatus": "pending",
+  "shippingAddress": {
+    "firstName": "Phan Thanh",
+    "lastName": "Duy",
+    "email": "phanthanhduy2610@gmail.com",
+    "phoneNumber": "0344134844",
+    "city": {
+      "id": "06",
+      "name": "Bắc Kạn",
+      "name_en": "Bac Kan",
+      "full_name": "Tỉnh Bắc Kạn",
+      "full_name_en": "Bac Kan Province",
+      "latitude": "22.2571701",
+      "longitude": "105.8204437"
+    },
+    "district": {
+      "id": "063",
+      "name": "Bạch Thông",
+      "name_en": "Bach Thong",
+      "full_name": "Huyện Bạch Thông",
+      "full_name_en": "Bach Thong District",
+      "latitude": "22.20210065",
+      "longitude": "105.9357949031498"
+    },
+    "ward": {
+      "id": "02014",
+      "name": "Dương Phong",
+      "name_en": "Duong Phong",
+      "full_name": "Xã Dương Phong",
+      "full_name_en": "Duong Phong Commune",
+      "latitude": "",
+      "longitude": ""
+    },
+    "addressLine": "Bắc Kạn, Đắc Nông"
+  },
+  "discount": 0,
+  "shippingFee": 10,
+  "subTotal": 424,
+  "createdAt": {
+    "$date": "2024-07-26T08:44:46.653Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T09:23:22.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3622ad4d8822a0c8f91ef"
+  },
+  "user": {
+    "$oid": "669f5931be83a04d9966037e"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "669f649d9bf9f595a37038f8"
+      },
+      "color": {
+        "$oid": "669f64b19bf9f595a3703924"
+      },
+      "quantity": 1,
+      "itemPrice": 552,
+      "_id": {
+        "$oid": "66a3622ad4d8822a0c8f91f0"
+      }
+    }
+  ],
+  "totalAmount": 562,
+  "paymentMethod": "paypal",
+  "paymentStatus": "paid",
+  "orderStatus": "pending",
+  "shippingAddress": {
+    "firstName": "Phan Thanh",
+    "lastName": "Duy",
+    "email": "phanthanhduy2610@gmail.com",
+    "phoneNumber": "0344134844",
+    "city": {
+      "id": "06",
+      "name": "Bắc Kạn",
+      "name_en": "Bac Kan",
+      "full_name": "Tỉnh Bắc Kạn",
+      "full_name_en": "Bac Kan Province",
+      "latitude": "22.2571701",
+      "longitude": "105.8204437"
+    },
+    "district": {
+      "id": "063",
+      "name": "Bạch Thông",
+      "name_en": "Bach Thong",
+      "full_name": "Huyện Bạch Thông",
+      "full_name_en": "Bach Thong District",
+      "latitude": "22.20210065",
+      "longitude": "105.9357949031498"
+    },
+    "ward": {
+      "id": "02014",
+      "name": "Dương Phong",
+      "name_en": "Duong Phong",
+      "full_name": "Xã Dương Phong",
+      "full_name_en": "Duong Phong Commune",
+      "latitude": "",
+      "longitude": ""
+    },
+    "addressLine": "Bắc Kạn, Đắc Nông"
+  },
+  "discount": 0,
+  "shippingFee": 10,
+  "subTotal": 10,
+  "createdAt": {
+    "$date": "2024-07-26T08:45:30.829Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T08:45:30.829Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36267d4d8822a0c8f925c"
+  },
+  "user": {
+    "$oid": "669f5931be83a04d9966037e"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "66a0944136c945e029294526"
+      },
+      "color": {
+        "$oid": "66a0944136c945e029294527"
+      },
+      "quantity": 1,
+      "itemPrice": 1120,
+      "_id": {
+        "$oid": "66a36267d4d8822a0c8f925d"
+      }
+    }
+  ],
+  "totalAmount": 1130,
+  "paymentMethod": "vnpay",
+  "paymentStatus": "paid",
+  "orderStatus": "pending",
+  "shippingAddress": {
+    "firstName": "Phan Thanh",
+    "lastName": "Duy",
+    "email": "phanthanhduy2610@gmail.com",
+    "phoneNumber": "0344134844",
+    "city": {
+      "id": "06",
+      "name": "Bắc Kạn",
+      "name_en": "Bac Kan",
+      "full_name": "Tỉnh Bắc Kạn",
+      "full_name_en": "Bac Kan Province",
+      "latitude": "22.2571701",
+      "longitude": "105.8204437"
+    },
+    "district": {
+      "id": "063",
+      "name": "Bạch Thông",
+      "name_en": "Bach Thong",
+      "full_name": "Huyện Bạch Thông",
+      "full_name_en": "Bach Thong District",
+      "latitude": "22.20210065",
+      "longitude": "105.9357949031498"
+    },
+    "ward": {
+      "id": "02014",
+      "name": "Dương Phong",
+      "name_en": "Duong Phong",
+      "full_name": "Xã Dương Phong",
+      "full_name_en": "Duong Phong Commune",
+      "latitude": "",
+      "longitude": ""
+    },
+    "addressLine": "Bắc Kạn, Đắc Nông"
+  },
+  "discount": 0,
+  "shippingFee": 10,
+  "subTotal": 1120,
+  "createdAt": {
+    "$date": "2024-07-26T08:46:31.226Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T08:46:31.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36a7fd4d8822a0c8f9921"
+  },
+  "user": {
+    "$oid": "669f5931be83a04d9966037e"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "66a364bad4d8822a0c8f93a7"
+      },
+      "color": {
+        "$oid": "66a364bad4d8822a0c8f93a8"
+      },
+      "quantity": 1,
+      "itemPrice": 840,
+      "_id": {
+        "$oid": "66a36a7fd4d8822a0c8f9922"
+      }
+    }
+  ],
+  "totalAmount": 840,
+  "paymentMethod": "cod",
+  "paymentStatus": "paid",
+  "orderStatus": "completed",
+  "shippingAddress": {
+    "firstName": "Phan Thanh",
+    "lastName": "Duy",
+    "email": "phanthanhduy2610@gmail.com",
+    "phoneNumber": "0344134844",
+    "city": {
+      "id": "06",
+      "name": "Bắc Kạn",
+      "name_en": "Bac Kan",
+      "full_name": "Tỉnh Bắc Kạn",
+      "full_name_en": "Bac Kan Province",
+      "latitude": "22.2571701",
+      "longitude": "105.8204437"
+    },
+    "district": {
+      "id": "063",
+      "name": "Bạch Thông",
+      "name_en": "Bach Thong",
+      "full_name": "Huyện Bạch Thông",
+      "full_name_en": "Bach Thong District",
+      "latitude": "22.20210065",
+      "longitude": "105.9357949031498"
+    },
+    "ward": {
+      "id": "02014",
+      "name": "Dương Phong",
+      "name_en": "Duong Phong",
+      "full_name": "Xã Dương Phong",
+      "full_name_en": "Duong Phong Commune",
+      "latitude": "",
+      "longitude": ""
+    },
+    "addressLine": "Bắc Kạn, Đắc Nông"
+  },
+  "promoCode": {
+    "$oid": "66a36597d4d8822a0c8f9464"
+  },
+  "discount": 10,
+  "shippingFee": 10,
+  "subTotal": 840,
+  "createdAt": {
+    "$date": "2024-07-26T09:21:03.912Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T09:21:40.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36e62d4d8822a0c8fa527"
+  },
+  "user": {
+    "$oid": "66a36cf9d4d8822a0c8fa3c3"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "669f62f49bf9f595a370385d"
+      },
+      "color": {
+        "$oid": "669f62f49bf9f595a370385e"
+      },
+      "quantity": 1,
+      "itemPrice": 496,
+      "_id": {
+        "$oid": "66a36e62d4d8822a0c8fa528"
+      }
+    }
+  ],
+  "totalAmount": 506,
+  "paymentMethod": "cod",
+  "paymentStatus": "paid",
+  "orderStatus": "completed",
+  "shippingAddress": {
+    "firstName": "Bui",
+    "lastName": "Vi",
+    "email": "abcd@gmail.com",
+    "phoneNumber": "0123456789",
+    "city": {
+      "id": "77",
+      "name": "Bà Rịa - Vũng Tàu",
+      "name_en": "Ba Ria - Vung Tau",
+      "full_name": "Tỉnh Bà Rịa - Vũng Tàu",
+      "full_name_en": "Ba Ria - Vung Tau Province",
+      "latitude": "10.5738801",
+      "longitude": "107.3284362"
+    },
+    "district": {
+      "id": "750",
+      "name": "Châu Đức",
+      "name_en": "Chau Duc",
+      "full_name": "Huyện Châu Đức",
+      "full_name_en": "Chau Duc District",
+      "latitude": "10.6564461",
+      "longitude": "107.26674688112058"
+    },
+    "ward": {
+      "id": "26599",
+      "name": "Cù Bị",
+      "name_en": "Cu Bi",
+      "full_name": "Xã Cù Bị",
+      "full_name_en": "Cu Bi Commune",
+      "latitude": "10.7339418",
+      "longitude": "107.1854217"
+    },
+    "addressLine": "ba ria cung tau"
+  },
+  "discount": 0,
+  "shippingFee": 10,
+  "subTotal": 496,
+  "createdAt": {
+    "$date": "2024-07-26T09:37:38.190Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T09:38:57.536Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36edad4d8822a0c8fa82d"
+  },
+  "user": {
+    "$oid": "66a36cf9d4d8822a0c8fa3c3"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "669f63939bf9f595a37038c9"
+      },
+      "color": {
+        "$oid": "669f63939bf9f595a37038ca"
+      },
+      "quantity": 1,
+      "itemPrice": 212,
+      "_id": {
+        "$oid": "66a36edad4d8822a0c8fa82e"
+      }
+    },
+    {
+      "product": {
+        "$oid": "669f649d9bf9f595a37038f8"
+      },
+      "color": {
+        "$oid": "669f649d9bf9f595a37038f9"
+      },
+      "quantity": 1,
+      "itemPrice": 552,
+      "_id": {
+        "$oid": "66a36edad4d8822a0c8fa82f"
+      }
+    },
+    {
+      "product": {
+        "$oid": "669f65e89bf9f595a3703a25"
+      },
+      "color": {
+        "$oid": "669f65e89bf9f595a3703a26"
+      },
+      "quantity": 1,
+      "itemPrice": 400,
+      "_id": {
+        "$oid": "66a36edad4d8822a0c8fa830"
+      }
+    }
+  ],
+  "totalAmount": 1174,
+  "paymentMethod": "cod",
+  "paymentStatus": "paid",
+  "orderStatus": "completed",
+  "shippingAddress": {
+    "firstName": "Bui",
+    "lastName": "Vi",
+    "email": "abcd@gmail.com",
+    "phoneNumber": "0123456789",
+    "city": {
+      "id": "77",
+      "name": "Bà Rịa - Vũng Tàu",
+      "name_en": "Ba Ria - Vung Tau",
+      "full_name": "Tỉnh Bà Rịa - Vũng Tàu",
+      "full_name_en": "Ba Ria - Vung Tau Province",
+      "latitude": "10.5738801",
+      "longitude": "107.3284362"
+    },
+    "district": {
+      "id": "750",
+      "name": "Châu Đức",
+      "name_en": "Chau Duc",
+      "full_name": "Huyện Châu Đức",
+      "full_name_en": "Chau Duc District",
+      "latitude": "10.6564461",
+      "longitude": "107.26674688112058"
+    },
+    "ward": {
+      "id": "26599",
+      "name": "Cù Bị",
+      "name_en": "Cu Bi",
+      "full_name": "Xã Cù Bị",
+      "full_name_en": "Cu Bi Commune",
+      "latitude": "10.7339418",
+      "longitude": "107.1854217"
+    },
+    "addressLine": "ba ria cung tau"
+  },
+  "discount": 0,
+  "shippingFee": 10,
+  "subTotal": 1164,
+  "createdAt": {
+    "$date": "2024-07-26T09:39:38.176Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T09:39:59.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36f45d4d8822a0c8fa9b3"
+  },
+  "user": {
+    "$oid": "66a36cf9d4d8822a0c8fa3c3"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "66a36531d4d8822a0c8f93f4"
+      },
+      "color": {
+        "$oid": "66a36531d4d8822a0c8f93f5"
+      },
+      "quantity": 1,
+      "itemPrice": 800,
+      "_id": {
+        "$oid": "66a36f45d4d8822a0c8fa9b4"
+      }
+    }
+  ],
+  "totalAmount": 810,
+  "paymentMethod": "cod",
+  "paymentStatus": "unpaid",
+  "orderStatus": "pending",
+  "shippingAddress": {
+    "firstName": "Bui",
+    "lastName": "Vi",
+    "email": "abcd@gmail.com",
+    "phoneNumber": "0123456789",
+    "city": {
+      "id": "77",
+      "name": "Bà Rịa - Vũng Tàu",
+      "name_en": "Ba Ria - Vung Tau",
+      "full_name": "Tỉnh Bà Rịa - Vũng Tàu",
+      "full_name_en": "Ba Ria - Vung Tau Province",
+      "latitude": "10.5738801",
+      "longitude": "107.3284362"
+    },
+    "district": {
+      "id": "750",
+      "name": "Châu Đức",
+      "name_en": "Chau Duc",
+      "full_name": "Huyện Châu Đức",
+      "full_name_en": "Chau Duc District",
+      "latitude": "10.6564461",
+      "longitude": "107.26674688112058"
+    },
+    "ward": {
+      "id": "26599",
+      "name": "Cù Bị",
+      "name_en": "Cu Bi",
+      "full_name": "Xã Cù Bị",
+      "full_name_en": "Cu Bi Commune",
+      "latitude": "10.7339418",
+      "longitude": "107.1854217"
+    },
+    "addressLine": "ba ria cung tau"
+  },
+  "discount": 0,
+  "shippingFee": 10,
+  "subTotal": 800,
+  "createdAt": {
+    "$date": "2024-07-26T09:41:25.424Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T09:41:25.424Z"
+  },
+  "__v": 0
+}]

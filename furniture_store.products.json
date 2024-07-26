@@ -1,0 +1,1703 @@
+[{
+  "_id": {
+    "$oid": "669f62f49bf9f595a370385d"
+  },
+  "name": "Canyon Velvet Swivel Chair",
+  "SKU": "Chair001",
+  "price": 619,
+  "discount": 20,
+  "description": "<h3><strong>Canyon Cream Velvet Swivel Chair</strong></h3><p>&nbsp;</p><p>Get ready to sink into a world of comfort and fab design. Upholstered in sumptuous velvet with piped stitching and channel tufting, the look is completed with its brushed gold base. The Canyon chair is the perfect piece to enhance any space. Available in multiple colors.</p><p>&nbsp;</p><h3><strong>Features</strong></h3><ul><li>Handmade elegantly curved design.</li><li>Durable yet sumptuous velvet upholstery.</li><li>360-degree swivel.</li><li>Solid kiln dried wood frame with zig-zap spring support.</li><li>Fabric swatch available.</li></ul>",
+  "category": {
+    "$oid": "668de8917014cb187b74a427"
+  },
+  "brand": {
+    "$oid": "667acf5eb3b8465d50864128"
+  },
+  "colors": [
+    {
+      "name": "Blue",
+      "thumb": "public/uploads/images/f2c8c61b-d886-4f03-b936-0795b69c270a.png",
+      "stock": 98,
+      "images": [
+        "public/uploads/images/0c98f59b-469e-43ff-9b47-e89b9d301ed8.webp",
+        "public/uploads/images/33dff4ae-09ec-4333-bf6a-2329f7d4260c.webp",
+        "public/uploads/images/67fa65b1-6889-469e-a43d-b0da736cf9b5.webp",
+        "public/uploads/images/9cc531c4-a395-413a-9483-0637c9c0ba4f.webp",
+        "public/uploads/images/6f7c273b-2e6d-49d5-927f-6b82b289ed13.webp",
+        "public/uploads/images/6a06cea4-5416-41b1-a002-02c167e690a7.webp",
+        "public/uploads/images/534d0266-8917-41d7-83ad-eea843f3d290.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "669f62f49bf9f595a370385e"
+      },
+      "createdAt": {
+        "$date": "2024-07-23T07:59:48.442Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T09:37:38.180Z"
+      }
+    },
+    {
+      "name": "cream",
+      "thumb": "public/uploads/images/c5363be0-399c-43d6-a658-39de93610667.avif",
+      "stock": 100,
+      "images": [
+        "public/uploads/images/01df16ef-738f-4305-bdac-4c1344b953f4.webp",
+        "public/uploads/images/5e45e0c5-b61a-4210-88ee-903038da2314.webp",
+        "public/uploads/images/12fd0274-131d-442e-93d4-a043c6d970ab.webp",
+        "public/uploads/images/c0ee24e0-a044-4ca7-90f6-46cbc74aaaed.webp",
+        "public/uploads/images/32018b3b-9f97-4f78-aabc-d123b41abc2d.webp",
+        "public/uploads/images/f67519da-9a11-4b65-b753-5f5ee47dce5e.webp",
+        "public/uploads/images/0989434f-8b14-4375-acbc-72828630c5e4.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "669f63139bf9f595a3703881"
+      },
+      "createdAt": {
+        "$date": "2024-07-23T08:00:19.526Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-23T08:00:19.526Z"
+      }
+    },
+    {
+      "name": "pink",
+      "thumb": "public/uploads/images/dd81a153-09ed-4f35-8fe9-05660f5ced37.jpg",
+      "stock": 100,
+      "images": [
+        "public/uploads/images/fb5fe2bd-b4fd-464a-866e-a46d27b2cec1.webp",
+        "public/uploads/images/1318aaff-6a7a-4e5c-9917-b265d01f618c.webp",
+        "public/uploads/images/975862ed-bf59-4d32-a42c-fb511545c92c.webp",
+        "public/uploads/images/e50d1558-f66e-45df-b14d-3a23de6cb712.webp",
+        "public/uploads/images/f826caf4-d24d-4d98-bd6a-58cbdf6f15d7.webp",
+        "public/uploads/images/be13940d-2407-4ee8-a25c-c31312f462cd.webp",
+        "public/uploads/images/c07415a4-2231-4e74-830c-a69f0f3d35ae.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "669f63249bf9f595a3703898"
+      },
+      "createdAt": {
+        "$date": "2024-07-23T08:00:36.178Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-23T08:00:36.178Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "667acf71b3b8465d50864132"
+    }
+  ],
+  "dimensions": {
+    "width": 31,
+    "height": 31,
+    "depth": 32
+  },
+  "weight": 73,
+  "material": "Velvet",
+  "active": true,
+  "reviews": [
+    {
+      "user": {
+        "$oid": "66a36cf9d4d8822a0c8fa3c3"
+      },
+      "rating": 5,
+      "comment": "Amazingg!!!!!!!!",
+      "_id": {
+        "$oid": "66a36eb4d4d8822a0c8fa6ee"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T09:39:00.070Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T09:39:00.070Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-23T07:59:48.442Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T09:39:00.070Z"
+  },
+  "slug": "canyon-velvet-swivel-chair",
+  "__v": 7
+},
+{
+  "_id": {
+    "$oid": "669f63939bf9f595a37038c9"
+  },
+  "name": "Jolene Green Patterned Linen Accent Chair",
+  "SKU": "Chair002",
+  "price": 265,
+  "discount": 20,
+  "description": "<h3><strong>Jolene Green Patterned Linen Accent Chair</strong></h3><p>&nbsp;</p><p>The Jolene chair is funky and bold like pop-art. This unique chair is crafted from pine wood and wrapped in sumptuous linen fabric, with iron legs in contrasting color to add a sense of abstraction. Walking into a room with this chair will feel like entering a contemporary gallery space!</p><p>&nbsp;</p><h3><strong>Features</strong></h3><ul><li>Handmade by skilled furniture craftsmen</li><li>Sumptuous linen upholstery</li><li>Teal iron legs</li><li>Fabric swatch available</li><li>Ships fully assembled</li></ul>",
+  "category": {
+    "$oid": "668de8917014cb187b74a427"
+  },
+  "brand": {
+    "$oid": "667acf5eb3b8465d50864128"
+  },
+  "colors": [
+    {
+      "name": "Green",
+      "thumb": "public/uploads/images/5c54d307-22a7-49d3-8af0-83a9faa6155b.png",
+      "stock": 96,
+      "images": [
+        "public/uploads/images/fd2dd183-2d01-4646-9b9e-977d8feef986.webp",
+        "public/uploads/images/dd0cfac0-fd63-42b4-a909-2b3dcd0eb95c.webp",
+        "public/uploads/images/f58c16b7-7c1e-43f4-b66f-7c8b4bc3b48a.webp",
+        "public/uploads/images/0316b164-9bb8-41ed-9854-579b8f8e8c3c.webp",
+        "public/uploads/images/2f68b783-3280-4f75-a617-4c9aa01a74a2.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "669f63939bf9f595a37038ca"
+      },
+      "createdAt": {
+        "$date": "2024-07-23T08:02:27.161Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T09:39:38.165Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "667acf71b3b8465d50864132"
+    }
+  ],
+  "dimensions": {
+    "width": 20,
+    "height": 29,
+    "depth": 24
+  },
+  "weight": 18,
+  "material": " Iron, Linen, Velvet",
+  "active": true,
+  "reviews": [
+    {
+      "user": {
+        "$oid": "66a36cf9d4d8822a0c8fa3c3"
+      },
+      "rating": 4,
+      "comment": "Amaziingggg!!!!!",
+      "_id": {
+        "$oid": "66a36f06d4d8822a0c8fa93f"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T09:40:22.465Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T09:40:22.465Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-23T08:02:27.161Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T09:40:22.465Z"
+  },
+  "slug": "jolene-green-patterned-linen-accent-chair",
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "669f649d9bf9f595a37038f8"
+  },
+  "name": "Kandra Upholstered Accent Chair by Inspire Me! Home Decor",
+  "SKU": "Chair003",
+  "price": 689,
+  "discount": 20,
+  "description": "<h3><strong>Kandra Cream Velvet Accent Chair By Inspire Me! Home Decor</strong></h3><p>&nbsp;</p><p>Introducing the Kandra accent chair; another beauty from the TOV x Inspire Me! Home Decor collection. This eye-catching accent chair is available in velvet or vegan shearling upholstery options that are beautifully complemented by its matte gold legs.</p><p>&nbsp;</p><h3><strong>Features</strong></h3><ul><li>Handmade by skilled furniture atisans</li><li>Multiple sumptuous upholstery options available</li><li>Solid frame offers durability and support</li><li>Part of the Inspire Me! Home Decor collection</li><li>Fabric swatch available upon request</li><li>Minimal assembly required</li></ul>",
+  "category": {
+    "$oid": "668de8917014cb187b74a427"
+  },
+  "brand": {
+    "$oid": "667acf5eb3b8465d50864128"
+  },
+  "colors": [
+    {
+      "name": "Cream",
+      "thumb": "public/uploads/images/ba9aa249-a4ab-4e90-ae8e-edbac1533c08.avif",
+      "stock": 98,
+      "images": [
+        "public/uploads/images/8fb8a326-f1b0-4e03-9efd-60667eef78e7.webp",
+        "public/uploads/images/515cab55-32f6-4482-b461-492acc14fac7.webp",
+        "public/uploads/images/cf17f08c-9a2f-490f-9640-6f7aad5f8f35.webp",
+        "public/uploads/images/7ea0d4cc-5d90-4d77-be47-0220d2ea62a8.webp",
+        "public/uploads/images/0bd29ee6-a97a-4bf5-a095-287c65f79808.webp",
+        "public/uploads/images/19459314-dee2-45e0-9abe-cdcd743de469.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "669f649d9bf9f595a37038f9"
+      },
+      "createdAt": {
+        "$date": "2024-07-23T08:06:53.384Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T09:39:38.168Z"
+      }
+    },
+    {
+      "name": "grey",
+      "thumb": "public/uploads/images/a3ee1ac6-8c56-41aa-8d9c-c63ad29e03ee.jpg",
+      "stock": 99,
+      "images": [
+        "public/uploads/images/44faf3fd-3b2f-4d31-a6bd-71d7c1c1ef6e.webp",
+        "public/uploads/images/5fd4e2f1-4c5f-413c-a003-86ac5389fbd6.webp",
+        "public/uploads/images/6220a1a3-72b4-41d1-8d7d-4ae20c5ce0bc.webp",
+        "public/uploads/images/70decad9-f12a-496c-b543-644c8e0df8d2.webp",
+        "public/uploads/images/07e1ea98-2ee7-432f-a166-7e8b4dbf9653.webp",
+        "public/uploads/images/ef73475d-d895-45dc-a147-3d84faab3863.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "669f64b19bf9f595a3703924"
+      },
+      "createdAt": {
+        "$date": "2024-07-23T08:07:13.072Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T08:45:30.822Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "667acf71b3b8465d50864132"
+    }
+  ],
+  "dimensions": {
+    "width": 33,
+    "height": 30,
+    "depth": 31
+  },
+  "weight": 54,
+  "material": "Iron, Velvet, Wood",
+  "active": true,
+  "reviews": [
+    {
+      "user": {
+        "$oid": "66a36cf9d4d8822a0c8fa3c3"
+      },
+      "rating": 4,
+      "comment": "Good product !!!!!!!",
+      "_id": {
+        "$oid": "66a36fbcd4d8822a0c8fa9fc"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T09:43:24.210Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T09:43:24.210Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-23T08:06:53.384Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T09:43:24.210Z"
+  },
+  "slug": "kandra-upholstered-accent-chair-by-inspire-me-home-decor",
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "669f65e89bf9f595a3703a25"
+  },
+  "name": "Naomi Velvet Swivel Chair",
+  "SKU": "Chair004",
+  "price": 499,
+  "discount": 20,
+  "description": "<h2><strong>Naomi Blush Velvet Swivel Chair</strong></h2><p>&nbsp;</p><p style=\"margin-left:40px;\">Glamorous and playful, the Naomi chair was designed to bring a burst of style to your space. Its kiln-dried pine frame and high-density foam fill offer comfort and support and its plush upholstery makes this chair the complete package. Available in multiple color options</p><p style=\"margin-left:40px;\">&nbsp;</p><h2><strong>Features</strong></h2><ul><li>Handmade by skilled furniture atisans</li><li>360 degree swivel</li><li>Kiln-dried pine frame with spring support</li><li>Available in multiple colors options</li><li>Fabric swatch available</li></ul><p>&nbsp;</p><p>&nbsp;</p>",
+  "category": {
+    "$oid": "668de8917014cb187b74a427"
+  },
+  "brand": {
+    "$oid": "667acf67b3b8465d5086412b"
+  },
+  "colors": [
+    {
+      "name": "Blush",
+      "thumb": "public/uploads/images/7d86069c-3ec3-4590-a316-8a14a4ece6b7.webp",
+      "stock": 99,
+      "images": [
+        "public/uploads/images/1b774fb0-33a0-4cd8-a24b-29dac39e8188.webp",
+        "public/uploads/images/1cc755fb-72b8-4b00-9619-47dbc0bb7e46.webp",
+        "public/uploads/images/5899b03b-de1b-4a23-8d07-87c212afe2c7.webp",
+        "public/uploads/images/abd9a79d-346c-439b-99c1-abe2ac70a273.webp",
+        "public/uploads/images/8d55b78d-d30b-4b70-96f3-c719639f895a.webp",
+        "public/uploads/images/7760b24c-e945-421a-8b03-a1f8e6e598f0.webp",
+        "public/uploads/images/e2d7e857-23ac-4a4a-9a5f-288a6a24cd8b.webp",
+        "public/uploads/images/a1cc3449-56f2-4a03-9169-4001680ebb8f.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "669f65e89bf9f595a3703a26"
+      },
+      "createdAt": {
+        "$date": "2024-07-23T08:12:24.568Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T09:39:38.172Z"
+      }
+    },
+    {
+      "name": "cream",
+      "thumb": "public\\uploads\\images\\b8707044-dc9c-44af-ad72-33f3a030b8e2.avif",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\b597da24-7109-43d2-92ef-eea7be95d70c.webp",
+        "public\\uploads\\images\\7c038bb8-0ea5-47f6-a644-f29e7d69ca80.webp",
+        "public\\uploads\\images\\39d1582c-ab5a-4200-b5f6-82fdd0c46936.webp",
+        "public\\uploads\\images\\056384e5-3edd-4f83-aa69-a89c4666f096.webp",
+        "public\\uploads\\images\\290b422b-9b30-426c-a0da-fc9d9a89eb99.webp",
+        "public\\uploads\\images\\4904bd1b-fb3d-4a8c-a4a3-49c9c26879ac.webp",
+        "public\\uploads\\images\\45240816-4cee-446d-a00d-e6934cc3914c.webp",
+        "public\\uploads\\images\\ac133f03-d91e-4537-bef3-e9363c133238.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "669f66ee9bf9f595a3703bca"
+      },
+      "createdAt": {
+        "$date": "2024-07-23T08:16:46.249Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-23T08:16:46.249Z"
+      }
+    },
+    {
+      "name": "grey",
+      "thumb": "public\\uploads\\images\\9a99b1bf-17a1-4cc8-a64d-71ac26228fac.webp",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\cc6c81b6-12d0-42e0-88df-912a9c1e04a1.webp",
+        "public\\uploads\\images\\2a5beff7-cbfa-4f03-97bf-24842cd6d961.webp",
+        "public\\uploads\\images\\3fdc8f78-25e5-4ab8-8b57-a18fd09824ed.webp",
+        "public\\uploads\\images\\3ada29c8-acc3-4330-b7b2-d19557997270.webp",
+        "public\\uploads\\images\\55c94059-ccbd-4347-8380-fe1fcc6d85a2.webp",
+        "public\\uploads\\images\\9dd877f9-14d3-49e4-b94d-caa4ba92615f.webp",
+        "public\\uploads\\images\\0cae48a7-bdd5-457e-9c84-cdb68c587440.webp",
+        "public\\uploads\\images\\a97e4cf9-afdc-4175-914d-e173259ef123.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "669f67049bf9f595a3703be1"
+      },
+      "createdAt": {
+        "$date": "2024-07-23T08:17:08.181Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-23T08:17:08.181Z"
+      }
+    },
+    {
+      "name": "navy",
+      "thumb": "public\\uploads\\images\\68af1a72-5595-408f-9261-12ad55e7a7e0.webp",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\660f0429-a811-4584-bd80-2d320598bb4f.webp",
+        "public\\uploads\\images\\036b876b-3f2a-459b-a2b2-50bf6ed10821.webp",
+        "public\\uploads\\images\\cca7bc7e-e352-4b23-aa99-0c8805a61280.webp",
+        "public\\uploads\\images\\3be89b42-b6d4-4647-be84-c0b72e696672.webp",
+        "public\\uploads\\images\\361d928f-5392-4cda-95bc-50a5e246f0ab.webp",
+        "public\\uploads\\images\\9768fdc0-4f8b-4132-96c3-d5d0e004b59f.webp",
+        "public\\uploads\\images\\8939d60b-c1b5-4b9a-aff2-df597c09302d.webp",
+        "public\\uploads\\images\\afbaf296-ede7-4717-b036-f6c60cb872b3.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "669f671f9bf9f595a3703bfb"
+      },
+      "createdAt": {
+        "$date": "2024-07-23T08:17:35.238Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-23T08:17:35.238Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "667acf71b3b8465d50864132"
+    }
+  ],
+  "dimensions": {
+    "width": 31,
+    "height": 28,
+    "depth": 31
+  },
+  "weight": 56,
+  "material": "Velvet, Wood",
+  "active": true,
+  "reviews": [
+    {
+      "user": {
+        "$oid": "66a36cf9d4d8822a0c8fa3c3"
+      },
+      "rating": 3,
+      "comment": "It's OK !!!!",
+      "_id": {
+        "$oid": "66a36fd2d4d8822a0c8faa70"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T09:43:46.294Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T09:43:46.294Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-23T08:12:24.569Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T09:43:46.294Z"
+  },
+  "slug": "naomi-velvet-swivel-chair",
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "669f67aa9bf9f595a3703c79"
+  },
+  "name": "Saint Tropez Striped Stuffed Indoor  Outdoor Armchair",
+  "SKU": "Chair005",
+  "price": 739,
+  "discount": 20,
+  "description": "<h2><strong>Saint Tropez Pearl And Red Striped Stuffed Outdoor Armchair</strong></h2><p>&nbsp;</p><p>Meet Saint Tropez's bolder, outdoor counterpart. The striped Saint Tropez chair adds another layer of fun and flexibility to your life. With its playful design and sturdy construction, its pillow-ey silhouette exudes whimsical charm while offering both comfort and style. Upholstered in outdoor-safe performance fabric, this chair ensures both durability and on-trend aesthetics, solidifying its status as the must-have statement piece of the season.</p><p>&nbsp;</p><h2><strong>Features</strong></h2><ul><li>Handmade by skilled furniture atisans</li><li>Playful silhouette is a true statement piece</li><li>Upholstered in outdoor grade performance fabric</li><li>Perfect for indoor or outdoor use</li><li>Available in multiple color options</li><li>Ships basically assembled, simply screw in the legs</li><li>Fabric swatch available upon request<br>&nbsp;</li></ul>",
+  "category": {
+    "$oid": "668de8917014cb187b74a427"
+  },
+  "brand": {
+    "$oid": "667acf67b3b8465d5086412b"
+  },
+  "colors": [
+    {
+      "name": "Blue",
+      "thumb": "public\\uploads\\images\\9608c374-4d7a-433f-820d-864d05a7ab61.jpg",
+      "stock": 99,
+      "images": [
+        "public\\uploads\\images\\8760d663-74d0-4a1e-8b07-397a0d67b8fb.webp",
+        "public\\uploads\\images\\6b287b89-a17a-4766-bc05-f1cf6a4fe872.webp",
+        "public\\uploads\\images\\aa0bc35f-c7b9-4adb-9cab-036522b69537.webp",
+        "public\\uploads\\images\\ca09796a-4ebf-4389-a1dd-65007f90ce4e.webp",
+        "public\\uploads\\images\\950f098c-5357-4e9e-b44f-4e021ee00b51.webp",
+        "public\\uploads\\images\\b91408c2-5b0f-408b-8deb-a2529eac1603.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "669f67aa9bf9f595a3703c7a"
+      },
+      "createdAt": {
+        "$date": "2024-07-23T08:19:54.538Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-23T08:27:49.916Z"
+      }
+    },
+    {
+      "name": "pearl",
+      "thumb": "public\\uploads\\images\\84878193-1a77-47c4-9a2e-646aa7338bdb.png",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\17b4dc90-3d35-471d-b16a-8d1e6f2f3e87.webp",
+        "public\\uploads\\images\\f32b3655-b357-48e5-801c-8b792a69418f.webp",
+        "public\\uploads\\images\\631566ef-0e65-4cf0-9c3c-99101b195c00.webp",
+        "public\\uploads\\images\\d14a8a58-6dd8-447e-b8c0-d10983b6aff0.webp",
+        "public\\uploads\\images\\4d216a76-e9ac-4c7b-bb09-8576381946c3.webp",
+        "public\\uploads\\images\\154ca67e-1912-45cc-a82e-ac0f66cb22cc.jpg"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "669f67c59bf9f595a3703cb1"
+      },
+      "createdAt": {
+        "$date": "2024-07-23T08:20:21.603Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-23T08:20:21.603Z"
+      }
+    },
+    {
+      "name": "pink",
+      "thumb": "public\\uploads\\images\\bec37455-3ad3-4a78-be75-8f3241b476e5.jpg",
+      "stock": 99,
+      "images": [
+        "public\\uploads\\images\\6c3a782e-e5d6-4a92-b383-100921510e1d.webp",
+        "public\\uploads\\images\\09450105-c748-4b06-b849-7278a149c5ce.webp",
+        "public\\uploads\\images\\8e4e72b6-c02b-4f11-adb3-a2a193dd0ff2.webp",
+        "public\\uploads\\images\\ae6bc5d3-6ee5-42a9-9661-c14e7309c875.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "669f67df9bf9f595a3703cc8"
+      },
+      "createdAt": {
+        "$date": "2024-07-23T08:20:47.630Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-23T08:30:08.377Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "667acf71b3b8465d50864132"
+    }
+  ],
+  "dimensions": {
+    "width": 42,
+    "height": 28,
+    "depth": 37
+  },
+  "weight": 70,
+  "material": "Fabric",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-23T08:19:54.539Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T08:30:08.377Z"
+  },
+  "slug": "saint-tropez-striped-stuffed-indoor-outdoor-armchair",
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "669f71b9cd2f94f78eb962c6"
+  },
+  "name": "Cave Tweed Loveseat",
+  "SKU": "LS001",
+  "price": 759,
+  "discount": 20,
+  "description": "<h2><strong>Cave Ash Gray Velvet Loveseat</strong></h2><p>&nbsp;</p><p>Featuring a timeless mid-century design, the Cave Collection encourages hours of stylish relaxation. Its sturdy poplar frame and ample cushioning offer supreme comfort and its soft upholstery and button tufting complete the look.</p><p>&nbsp;</p><h2><strong>Features</strong></h2><ul><li>Part of the Cave Collection from TOV Classics</li><li>Ash Gray velvet upholstery</li><li>Also available in dusty blue, burnt sienna, and sage green velvet</li><li>Acacia, rubberwood and plywood frame</li><li>Removable Seat/Back Cushions</li><li>High-gauge sinuous springs provide cushion support</li><li>Seat and back cushions are made with high-resilience foam</li><li>Leg color: Brown</li></ul>",
+  "category": {
+    "$oid": "668de8af7014cb187b74a433"
+  },
+  "brand": {
+    "$oid": "667acf67b3b8465d5086412b"
+  },
+  "colors": [
+    {
+      "name": "Grey",
+      "thumb": "public/uploads/images/5c58bd2f-5ab5-40a0-829d-2dad33e42c6b.jpg",
+      "stock": 100,
+      "images": [
+        "public/uploads/images/d9efd2be-aae0-4a46-9bec-2a123aeb9a49.jpg",
+        "public/uploads/images/d09e3cf6-1248-4134-bfde-884935b9145d.jpg",
+        "public/uploads/images/0442e7c2-ff98-4b16-9127-0bb2d3e78e2a.jpg",
+        "public/uploads/images/d088968a-8834-49ae-91f0-ba414eb699e1.jpg",
+        "public/uploads/images/597d23c1-4f08-429c-aa23-79753fbe2573.jpg",
+        "public/uploads/images/b2a93cab-4bfd-4cda-876b-734035426fb8.jpg",
+        "public/uploads/images/ee1eddb2-88b9-4336-8567-cf8a5d50cc6c.webp",
+        "public/uploads/images/c350af13-a3e5-45de-8900-ed2342c405c8.webp"
+      ],
+      "model3D": "public/uploads/models/8dfc4301-3611-4f9e-8287-328709ce8f14.glb",
+      "_id": {
+        "$oid": "669f71b9cd2f94f78eb962c7"
+      },
+      "createdAt": {
+        "$date": "2024-07-23T09:02:49.930Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-23T09:02:49.930Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b5204362a6e30edd7f3aa"
+    }
+  ],
+  "dimensions": {
+    "width": 76,
+    "height": 35,
+    "depth": 38
+  },
+  "weight": 114,
+  "material": "Foam, Polyester, Wood",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-23T09:02:49.931Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T09:02:57.842Z"
+  },
+  "slug": "cave-tweed-loveseat",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66a088bb36c945e02929427a"
+  },
+  "name": "Alexa Cream Outdoor Sofa",
+  "SKU": "Sofa1",
+  "price": 1299,
+  "discount": 20,
+  "description": "<h2><strong>Alexa Cream Performance Fabric Outdoor Sofa</strong></h2><p>&nbsp;</p><p>Upgrade your outdoor oasis with the Alexa Outdoor Collection, where style meets comfort in perfect harmony. Its stylish design, featuring a beautiful wicker frame and outdoor-grade fabric, not only enhances your outdoor space but also ensures durability in various weather conditions. Sink into super comfy seating with the sofa and matching armchair options, making every moment in the open air a truly luxurious experience</p><p>&nbsp;</p><h2><strong>Features</strong></h2><ul><li>Water-repellent performance upholstery</li><li>Outdoor grade fabric and beautiful wicker frame</li><li>Aluminum, not iron, to prevent rust and increase longevity</li><li>Available as a chair or sofa - pair them together to complete the look</li><li>We recommend covering during inclement weather or when not in use</li><li>Free fabric swatch available upon request</li></ul>",
+  "category": {
+    "$oid": "668de8997014cb187b74a42b"
+  },
+  "brand": {
+    "$oid": "668b824b1596cbb67319eb50"
+  },
+  "colors": [
+    {
+      "name": "Cream",
+      "thumb": "public\\uploads\\images\\ecb45a1b-fcd9-491e-a5fe-a4a52f3c08b2.avif",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\63dd6428-9689-4108-a7e4-2b0622ba9a1b.webp",
+        "public\\uploads\\images\\154324c5-d80a-4fb4-8584-c0b1bfbf351b.webp",
+        "public\\uploads\\images\\beb4a964-7beb-43dc-9b7d-4917c509c384.webp",
+        "public\\uploads\\images\\711a4253-f1ba-4f93-bf42-c73d11fabac5.webp",
+        "public\\uploads\\images\\fc163d11-26a6-430a-a8bc-56d17557f307.webp",
+        "public\\uploads\\images\\36e98ccf-19cc-4746-915c-eb34abd5badf.webp",
+        "public\\uploads\\images\\f1b435d5-899f-409c-be6b-8226abe13128.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a088bb36c945e02929427b"
+      },
+      "createdAt": {
+        "$date": "2024-07-24T04:53:15.372Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T04:53:15.372Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "667acf75b3b8465d50864135"
+    }
+  ],
+  "dimensions": {
+    "width": 79,
+    "height": 29,
+    "depth": 39
+  },
+  "weight": 72,
+  "material": "Aluminum, Polyester",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-24T04:53:15.373Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T04:53:15.373Z"
+  },
+  "slug": "alexa-cream-outdoor-sofa",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0896536c945e0292942ab"
+  },
+  "name": "Leonie Beige Faux Shearling 84\" Sofa",
+  "SKU": "Sofa2",
+  "price": 1069,
+  "discount": 20,
+  "description": "<h2><strong>Leonie Beige Faux Shearling 84\" Sofa</strong></h2><p>&nbsp;</p><p>Plush and perfect for relaxing in style, meet the alluring Leonie sofa. This piece is upholstered in faux shearling for a textural element and ultimate comfort, it boasts elegantly sloped back and arms, making it perfect for sinking into. It includes one accent throw pillow for an additional playful touch!</p><p>&nbsp;</p><h2><strong>Features</strong></h2><ul><li>Handmade by skilled furniture craftsmen</li><li>Comfortable faux shearling upholstery</li><li>Sturdy wooden frame with sinuous spring support</li><li>Pillow dimensions: 20\" Diameter</li><li>Fabric swatch available</li><li>Ships Assembled</li></ul>",
+  "category": {
+    "$oid": "668de8997014cb187b74a42b"
+  },
+  "brand": {
+    "$oid": "668b824b1596cbb67319eb50"
+  },
+  "colors": [
+    {
+      "name": "Cream",
+      "thumb": "public\\uploads\\images\\cd52c830-5cdf-40b8-8eb3-70bdc8ec4233.avif",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\5f9e04f2-e2c0-4492-b7bf-9a8ee2f6082a.webp",
+        "public\\uploads\\images\\259eca20-54ab-448b-ac81-301bc6d8a876.webp",
+        "public\\uploads\\images\\70d08cdb-00eb-4e74-a7b5-0b8ac648f993.webp",
+        "public\\uploads\\images\\2be239a0-65d5-41d6-9cfe-da0a80bb22ef.webp",
+        "public\\uploads\\images\\cf86b259-0397-4b4d-9b13-b9c4ba1bfadf.webp",
+        "public\\uploads\\images\\ba576ae6-00ae-461a-a840-fda392d48dfe.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a0896536c945e0292942ac"
+      },
+      "createdAt": {
+        "$date": "2024-07-24T04:56:05.567Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T04:56:05.567Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "667acf75b3b8465d50864135"
+    }
+  ],
+  "dimensions": {
+    "width": 84,
+    "height": 32,
+    "depth": 37
+  },
+  "weight": 110,
+  "material": "Fabric, Plywood",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-24T04:56:05.567Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T04:56:05.567Z"
+  },
+  "slug": "leonie-beige-faux-shearling-84-sofa",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a08a2a36c945e0292942de"
+  },
+  "name": "Macie Sea Blue Velvet Sofa",
+  "SKU": "Sofa3",
+  "price": 1299,
+  "discount": 20,
+  "description": "<h2><strong>Macie Sea Blue Velvet Sofa</strong></h2><p>&nbsp;</p><p>Defined by a rounded silhouette and a channel-tufted back, the Macie sofa lends a modern mood to any space. Its sumptuous upholstery is filled with plush foam and a kiln-dried frame for long-lasting comfort and support. Available in multiple options to suit your style</p><p>&nbsp;</p><h2><strong>Features</strong></h2><ul><li>Handmade by skilled furniture craftsmen</li><li>Elegantly rounded profile</li><li>High-density foam fill provides ultimate comfor</li><li>Plush velvet upholstery</li><li>Sturdy kiln-dried pine frame with zig-zag spring support</li><li>Fabric swatch available</li></ul>",
+  "category": {
+    "$oid": "668de8997014cb187b74a42b"
+  },
+  "brand": {
+    "$oid": "668b82521596cbb67319eb53"
+  },
+  "colors": [
+    {
+      "name": "Sea Blue",
+      "thumb": "public\\uploads\\images\\f21a31d8-293c-4bbc-9662-7a3215496a26.webp",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\c78f79e6-7d20-4ae3-a3ab-78fdd942498a.webp",
+        "public\\uploads\\images\\8c3e7ef8-2729-4aaa-89b3-397f77f7b792.webp",
+        "public\\uploads\\images\\60f5706f-028d-4dd9-a116-cd17879e923f.webp",
+        "public\\uploads\\images\\dbe04321-369e-4857-b82e-e59a616c4dba.webp",
+        "public\\uploads\\images\\f175b09f-4160-46f2-98cc-9f42a0c3be89.webp",
+        "public\\uploads\\images\\3a2c5e12-4a69-48e8-a37a-2166be128a81.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a08a2a36c945e0292942df"
+      },
+      "createdAt": {
+        "$date": "2024-07-24T04:59:22.343Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T04:59:22.343Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "667acf75b3b8465d50864135"
+    }
+  ],
+  "dimensions": {
+    "width": 92,
+    "height": 28,
+    "depth": 35
+  },
+  "weight": 112,
+  "material": "Velvet",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-24T04:59:22.344Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T04:59:22.344Z"
+  },
+  "slug": "macie-sea-blue-velvet-sofa",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0909e36c945e029294313"
+  },
+  "name": "Milan Black Velvet Sofa",
+  "SKU": "Sofa4",
+  "price": 1099,
+  "discount": 20,
+  "description": "<h2><strong>Milan Black Velvet Sofa</strong></h2><p>&nbsp;</p><p>A fusion between mid-century and Hollywood glam designs, our Milan sofa will add style to any room. This handcrafted sofa features gold steel legs and soft sumptuous velvet upholstery that will keep you cozy for hours.</p><p>&nbsp;</p><h3><strong>Features</strong></h3><ul><li>Handmade by skilled furniture atisans<br>Mid-Century Glam design<br>Steel gold colored legs<br>Removable cushions<br>Available in multiple velvet color options<br>Fabric swatch available<br>Minimal assembly required</li></ul>",
+  "category": {
+    "$oid": "668de8997014cb187b74a42b"
+  },
+  "brand": {
+    "$oid": "668b82521596cbb67319eb53"
+  },
+  "colors": [
+    {
+      "name": "Black",
+      "thumb": "public\\uploads\\images\\2cb2e726-01f0-4ee1-b88d-9cbd45aaafb9.webp",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\74965b2c-e204-414b-8e52-3bc188ddd622.webp",
+        "public\\uploads\\images\\1a1a6826-3ff2-4f42-9daa-a82688875e1e.webp",
+        "public\\uploads\\images\\73f0257a-8b17-4122-8f10-ed5119b5c70b.webp",
+        "public\\uploads\\images\\b104175e-015d-4edc-b672-afe045dbcdce.webp",
+        "public\\uploads\\images\\01a39ccf-bf86-4d71-879f-218e985d5308.webp",
+        "public\\uploads\\images\\593b1c50-c105-4304-83f5-8135b8248a2e.webp",
+        "public\\uploads\\images\\b9fbfdcb-096f-457a-8764-80564cb88f87.webp",
+        "public\\uploads\\images\\fe9d80f5-78ed-44b4-b581-04cec5b8c24f.webp",
+        "public\\uploads\\images\\1bf88488-5e56-4352-90df-e00d6cdf30e4.jpg"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a0909e36c945e029294314"
+      },
+      "createdAt": {
+        "$date": "2024-07-24T05:26:54.927Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T05:26:54.927Z"
+      }
+    },
+    {
+      "name": "navy",
+      "thumb": "public/uploads/images/2e1f29e9-2fcd-4713-8a8e-37aea4a34068.jpg",
+      "stock": 100,
+      "images": [
+        "public/uploads/images/d803f3ea-cf2d-4aee-aee1-00a3012598d8.webp",
+        "public/uploads/images/d3a2030b-3d81-42f3-bef3-0b837fe6a387.webp",
+        "public/uploads/images/f46391cc-56ec-461d-8eae-b45580340cb9.webp",
+        "public/uploads/images/c5365ba3-4cdb-4112-9325-8f0875c0cc9a.webp",
+        "public/uploads/images/5b4fdf53-146c-4178-a79e-45a4870927ea.webp",
+        "public/uploads/images/03c7fd77-9383-42db-b284-88a30dae2427.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a091a936c945e0292943cd"
+      },
+      "createdAt": {
+        "$date": "2024-07-24T05:31:21.140Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T05:31:21.140Z"
+      }
+    },
+    {
+      "name": "taupe",
+      "thumb": "public\\uploads\\images\\14e0c6da-1b56-4832-89bc-ef9b4d3c427e.png",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\1ff24a78-504e-43e9-a519-791ff356cc17.webp",
+        "public\\uploads\\images\\2db3ff27-e910-4e9a-ae15-5cb8f0e5b7ed.webp",
+        "public\\uploads\\images\\72b973a3-1cf7-4da3-9ed6-1ed624ef4ce8.webp",
+        "public\\uploads\\images\\d86295a4-72b3-473d-b3e9-9b230f6f2616.webp",
+        "public\\uploads\\images\\d584692a-1eda-44e5-b8ef-68ee008e194a.webp",
+        "public\\uploads\\images\\e9789f3f-0716-478a-967c-a3a8711da45f.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a091bf36c945e0292943e4"
+      },
+      "createdAt": {
+        "$date": "2024-07-24T05:31:43.259Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T05:31:43.259Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "667acf75b3b8465d50864135"
+    }
+  ],
+  "dimensions": {
+    "width": 90,
+    "height": 33,
+    "depth": 35
+  },
+  "weight": 118,
+  "material": "Velvet",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-24T05:26:54.927Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:32:29.063Z"
+  },
+  "slug": "milan-black-velvet-sofa",
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "66a0910d36c945e02929434a"
+  },
+  "name": "Norah Black Velvet Sofa",
+  "SKU": "Sofa5",
+  "price": 999,
+  "discount": 20,
+  "description": "<h2><strong>Norah Black Velvet Sofa</strong></h2><p>&nbsp;</p><p>Boasting a fresh and modern style the Norah sofa features sumptuous velvet upholstery, tuxedo arms and elegant channel tufting. Its kiln-dried pine frame and high-density foam fill offer supreme comfort and durability. Available in several colors to suit your style preference.</p><p>&nbsp;</p><h3><strong>Features</strong></h3><ul><li>Handmade by skilled furniture craftsmen</li><li>Beautiful channel tufting</li><li>Kiln-dried pine frame with spring support</li><li>Ships fully assembled</li><li>Fabric Swatch available</li></ul>",
+  "category": {
+    "$oid": "668de8997014cb187b74a42b"
+  },
+  "brand": {
+    "$oid": "668b825d1596cbb67319eb59"
+  },
+  "colors": [
+    {
+      "name": "Black",
+      "thumb": "public\\uploads\\images\\75831224-ad0e-40ff-b1e2-e78f035bece7.webp",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\8440d365-36c6-46c1-82e0-bd8ac618cf68.webp",
+        "public\\uploads\\images\\9aa2ad19-8899-4166-b0d2-8af391db792b.webp",
+        "public\\uploads\\images\\4b658968-f670-4c64-a162-9704eaa17755.webp",
+        "public\\uploads\\images\\217c03f9-bcf7-4c6e-a750-ea8dac681268.webp",
+        "public\\uploads\\images\\955c8786-fabd-4b30-9f9f-e75df03b68c7.webp",
+        "public\\uploads\\images\\d427b565-e87f-4309-aeb3-e5940e22f3cc.webp",
+        "public\\uploads\\images\\59ea6a33-4b9d-4403-8e93-ec9a4763fdb0.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a0910d36c945e02929434b"
+      },
+      "createdAt": {
+        "$date": "2024-07-24T05:28:45.846Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T05:28:45.846Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "667acf75b3b8465d50864135"
+    }
+  ],
+  "dimensions": {
+    "width": 90,
+    "height": 28,
+    "depth": 36
+  },
+  "weight": 90,
+  "material": "Velvet",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-24T05:28:45.846Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:28:45.846Z"
+  },
+  "slug": "norah-black-velvet-sofa",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0918136c945e029294383"
+  },
+  "name": "Willow Velvet Modular Sofa",
+  "SKU": "Sofa6",
+  "price": 1495,
+  "discount": 20,
+  "description": "<h2><strong>Willow Taupe Modular Sofa</strong></h2><p>Polished seating at its finest, the Willow Modular Collection, does not disappoint. Simultaneously firm and extraordinarily comfortable, the Willow Modular Collection offers stylish, elegant lounging. Available in 3 luxurious velvet finishes, the Willow Modular Collection can be configured in many ways that will best suit your home.</p><p>&nbsp;</p><h2><strong>Features</strong></h2><ul><li>Part of the Willow Collection by TOV Furniture</li><li>Sofa includes LAF Chair, Armless Chair, and RAF Chair</li><li>Taupe velvet upholstery</li><li>Also available in charcoal and navy velvet</li><li>Connecting brackets connect pieces from the bottom</li><li>Removable/reversible back cushions: No</li><li>Removable/reversible seat cushions: No</li><li>Solid pine and plywood frame</li><li>High-gauge sinuous springs provide cushion support</li><li>Seat and back cushions are made with high-resilience foam</li></ul>",
+  "category": {
+    "$oid": "668de8997014cb187b74a42b"
+  },
+  "brand": {
+    "$oid": "668b825d1596cbb67319eb59"
+  },
+  "colors": [
+    {
+      "name": "Charcole",
+      "thumb": "public\\uploads\\images\\9b10f039-a5c0-4452-a411-42ba967428ba.jpg",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\241f851f-5886-4423-9f90-ac96a178522b.webp",
+        "public\\uploads\\images\\780fdf40-4d4a-4ea2-848d-292898c4f65d.webp",
+        "public\\uploads\\images\\c3d31fb0-8c11-4445-afb2-e857a3909b79.webp",
+        "public\\uploads\\images\\712c4849-2657-49bd-ba44-08e022f62940.webp",
+        "public\\uploads\\images\\3851550a-fd96-4991-8c3d-23809560c463.webp",
+        "public\\uploads\\images\\f9045f53-9933-4094-b5bb-092a8ed07f94.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a0918136c945e029294384"
+      },
+      "createdAt": {
+        "$date": "2024-07-24T05:30:41.933Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T05:30:41.933Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "667acf75b3b8465d50864135"
+    }
+  ],
+  "dimensions": {
+    "width": 104,
+    "height": 35,
+    "depth": 37
+  },
+  "weight": 170,
+  "material": "Plywood, Velvet",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-24T05:30:41.934Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:30:41.934Z"
+  },
+  "slug": "willow-velvet-modular-sofa",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0929c36c945e02929445d"
+  },
+  "name": "Broohah Upholstered Sectional",
+  "SKU": "Section001",
+  "price": 1799,
+  "discount": 30,
+  "description": "<h2><strong>Broohah Cream Boucle Sectional</strong></h2><p>&nbsp;</p><p>The Broohah Sectional is the perfect way to bring an eye-catching post-modern style to your living space. Its sleek, modern design and warm, neutral upholstery options make it the perfect statement piece. The high quality construction and comfortable cushioning make it a pleasure to sit and relax. The sectional is perfect for lounging, entertaining, or just adding a touch of modern flair to any room. Add the matching round ottoman to complete the look.</p><h2><strong>Features</strong></h2><p>&nbsp;</p><ul><li>Handmade by skilled furniture atisans</li><li>Sleek, curved design</li><li>Available in two stunning upholstery options</li><li>Fabric swatches</li><li>available upon request</li><li>Minimal assembly required</li></ul>",
+  "category": {
+    "$oid": "668de8a17014cb187b74a42f"
+  },
+  "brand": {
+    "$oid": "668b82581596cbb67319eb56"
+  },
+  "colors": [
+    {
+      "name": "Cream",
+      "thumb": "public\\uploads\\images\\2b666030-cba7-4a72-a520-e5525526c0da.avif",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\ccc44b20-82ca-4320-8d32-ef09ad3738b4.webp",
+        "public\\uploads\\images\\3328044b-8bb3-4844-8a00-82f675566c46.webp",
+        "public\\uploads\\images\\37c96bbe-7ab3-4ad5-821b-ac4c42190c73.webp",
+        "public\\uploads\\images\\d422751e-a499-4cca-b02a-38f2af7a38b3.webp",
+        "public\\uploads\\images\\98efba53-0eb1-4e71-ae1b-9cb6a60c8e30.webp",
+        "public\\uploads\\images\\cfcdfe7d-aae6-4665-b457-da0bb44dff70.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a0929c36c945e02929445e"
+      },
+      "createdAt": {
+        "$date": "2024-07-24T05:35:24.755Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T05:35:24.755Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b51fc362a6e30edd7f3a7"
+    }
+  ],
+  "dimensions": {
+    "width": 100,
+    "height": 27,
+    "depth": 100
+  },
+  "weight": 190,
+  "material": "Boucle, Wood",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-24T05:35:24.755Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:35:24.755Z"
+  },
+  "slug": "broohah-upholstered-sectional",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0932c36c945e02929449e"
+  },
+  "name": "Cali Natural Wicker Outdoor Modular Sectional",
+  "SKU": "Section002",
+  "price": 1699,
+  "discount": 30,
+  "description": "<h2><strong>Cali Natural Wicker Outdoor Modular Sectional</strong></h2><p>&nbsp;</p><p>Our Cali Collection wows again with the spectacular Cali Outdoor Collection. Crafted from a neutral faux wicker, this weather-resistant collection will elevate your outdoor living space. Upholstered in outdoor-friendly material, the comfort of this collection is hard to resist.</p><h2><strong>Features</strong></h2><p>&nbsp;</p><ul><li>Part of the Cali Outdoor Wicker Collection by TOV Furniture</li><li>Sectional includes 2 Corner Chairs, 1 Armless Chair, and 1 Ottoman</li><li>Cream, weather-safe upholstery</li><li>Neutral, weather-safe faux wicker and steel frame</li><li>U-shape clips included to link the pieces together</li><li>Throw pillows included</li><li>Removable and reversible Seat/Seat Back Cushions</li></ul>",
+  "category": {
+    "$oid": "668de8a17014cb187b74a42f"
+  },
+  "brand": {
+    "$oid": "668b824b1596cbb67319eb50"
+  },
+  "colors": [
+    {
+      "name": "Cream",
+      "thumb": "public\\uploads\\images\\3dcd911e-80d8-4d94-ac50-8f9eb63ba0da.avif",
+      "stock": 0,
+      "images": [
+        "public\\uploads\\images\\2455eb2a-70b2-4870-8b07-89a212d4c546.webp",
+        "public\\uploads\\images\\78e84816-34fd-4a27-9407-d36c39471169.webp",
+        "public\\uploads\\images\\2916f48b-7c2f-40e4-b06a-6b0c3b62b11f.webp",
+        "public\\uploads\\images\\df9911b5-aa33-43d2-a02d-9f6bc037a4d7.webp",
+        "public\\uploads\\images\\33bead46-a7c2-401f-9d37-9dbb98f09633.jpg",
+        "public\\uploads\\images\\e70869ec-9cf9-4820-b848-911a1a6268a5.webp",
+        "public\\uploads\\images\\ec3e1a14-c383-411e-80a5-d2332bed270d.webp",
+        "public\\uploads\\images\\caa85b9a-c821-485d-b07c-a025cd90e899.webp",
+        "public\\uploads\\images\\c57fcca6-5733-470f-aeb2-6a614399328e.jpg"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a0932c36c945e02929449f"
+      },
+      "createdAt": {
+        "$date": "2024-07-24T05:37:48.822Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T05:37:48.822Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b51fc362a6e30edd7f3a7"
+    }
+  ],
+  "dimensions": {
+    "width": 119,
+    "height": 25,
+    "depth": 79
+  },
+  "weight": 178,
+  "material": "Acacia, Faux Rattan, Polyester, Steel",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-24T05:37:48.823Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:37:48.823Z"
+  },
+  "slug": "cali-natural-wicker-outdoor-modular-sectional",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a093ae36c945e0292944e1"
+  },
+  "name": "Callie Velvet Sectional",
+  "SKU": "Section003",
+  "price": 1499,
+  "discount": 30,
+  "description": "<h2><strong>Callie Cream Velvet Sectional - RAF</strong></h2><p>&nbsp;</p><p>Graceful and eye-catching, the Callie Sectional is the epitome of modern glamour. Its curved silhouette, scalloped tufted back and beautiful stainless steel legs, add character and style to any room. Available in multiple color options.</p><p>&nbsp;</p><h3><strong>Features</strong></h3><p>&nbsp;</p><ul><li>Handmade by skilled furniture craftsmen</li><li>Beautiful scallop tufted back</li><li>Includes 3 matching throw pillows</li><li>Throw pillow dimensions: 22.4\"W x 5.9\"D x 13\"H</li><li>Kiln-dried Pine frame with sinuous spring support</li></ul>",
+  "category": {
+    "$oid": "668de8a17014cb187b74a42f"
+  },
+  "brand": {
+    "$oid": "668b824b1596cbb67319eb50"
+  },
+  "colors": [
+    {
+      "name": "Cream",
+      "thumb": "public\\uploads\\images\\250ce093-de2f-4ece-a5ab-c57b8e31c06b.avif",
+      "stock": 99,
+      "images": [
+        "public\\uploads\\images\\eabd8123-96a4-4ea5-8dc6-2c6c83a0afeb.webp",
+        "public\\uploads\\images\\07237c36-70a4-4278-96eb-190146fbe630.webp",
+        "public\\uploads\\images\\957fc4b2-7511-49ed-a6ab-18602a1bbc66.webp",
+        "public\\uploads\\images\\b4243166-e14e-4586-95c6-6364bf4195f0.webp",
+        "public\\uploads\\images\\fdff85fa-d3f8-4c80-8059-306bba7fd4d5.webp",
+        "public\\uploads\\images\\aa825625-cba9-4e12-834f-28e1549dc389.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a093ae36c945e0292944e2"
+      },
+      "createdAt": {
+        "$date": "2024-07-24T05:39:58.928Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-25T06:49:34.858Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b51fc362a6e30edd7f3a7"
+    }
+  ],
+  "dimensions": {
+    "width": 111,
+    "height": 28,
+    "depth": 70
+  },
+  "weight": 120,
+  "material": "Velvet",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-24T05:39:58.928Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:49:34.858Z"
+  },
+  "slug": "callie-velvet-sectional",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0944136c945e029294526"
+  },
+  "name": "Hangover Cream Performance Linen 4-Piece Modular Chaise Sectional",
+  "SKU": "Section004",
+  "price": 1599,
+  "discount": 30,
+  "description": "<h3><strong>Hangover Cream Performance Linen 4-Piece Modular Chaise Sectional</strong></h3><p>&nbsp;</p><p>Introducing the Hangover Modular Collection, the epitome of versatility in home seating. Available in your choice of beautiful cream boucle or cream linen, this collection offers endless modular options to suit your space. Whether it's for a late-night chill with friends or nursing your hangover the next morning, the Hangover Modular Collection provides the perfect, stylish solution for all your lounging needs.</p><h3><strong>Features</strong></h3><p>&nbsp;</p><ul><li>Upholstered in water-repellent performance fabric</li><li>Handmade by skilled artisans</li><li>Modular setup for infinite possibilities</li><li>Available in cream linen or boucle upholstery options</li><li>This set includes 1 corner chair, 1 armless chair, 1 loveseat and 1 ottoman</li><li>Fabric swatch available upon request</li><li>Minimal assembly required</li></ul>",
+  "category": {
+    "$oid": "668de8a17014cb187b74a42f"
+  },
+  "brand": {
+    "$oid": "668b82581596cbb67319eb56"
+  },
+  "colors": [
+    {
+      "name": "Cream",
+      "thumb": "public\\uploads\\images\\d4cede91-7084-4fdd-b207-e3a2d84bf768.avif",
+      "stock": 98,
+      "images": [
+        "public\\uploads\\images\\656faf73-31ff-4974-a1cc-6ac0916db46a.webp",
+        "public\\uploads\\images\\78394722-cc8d-4c07-887e-bb0365fb4cee.webp",
+        "public\\uploads\\images\\180c00e1-ff2d-4042-af03-a505d60025d9.webp",
+        "public\\uploads\\images\\02cf1fe4-8ec5-4e41-babb-82238c7b3418.webp",
+        "public\\uploads\\images\\88dd444f-92ef-4b4c-b6f9-029fb0e45f3c.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a0944136c945e029294527"
+      },
+      "createdAt": {
+        "$date": "2024-07-24T05:42:25.020Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T08:46:31.216Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b51fc362a6e30edd7f3a7"
+    }
+  ],
+  "dimensions": {
+    "width": 102,
+    "height": 32,
+    "depth": 78
+  },
+  "weight": 230,
+  "material": "Linen, Wood",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-24T05:42:25.020Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T08:46:31.216Z"
+  },
+  "slug": "hangover-cream-performance-linen-4-piece-modular-chaise-sectional",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0953f36c945e029294572"
+  },
+  "name": "Bea Black Velvet Loveseat",
+  "SKU": "LS0001",
+  "price": 1500,
+  "discount": 30,
+  "description": "<h3><strong>Bea Black Velvet Loveseat</strong></h3><p>&nbsp;</p><p>Our Bea Loveseat is a true beauty. This rich velvet upholstered piece is designed with a deep seat, luxe tufting, and Lucite legs. Bea adds style and color to any room. This vibrant piece comes in sofa size and multiple color options.</p><p>&nbsp;</p><h3><strong>Features</strong></h3><p>&nbsp;</p><ul><li>Handmade by skilled furniture atisans</li><li>Comfortable velvet upholstery with a tufted seat and back</li><li>Attached high density foam cushion</li><li>Kiln-dried pine frame with sinuous springs support</li><li>Low and deep seated sofa with shapely lucite legs</li><li>Available in multiple color options</li><li>Fabric swatch available</li><li>Throw pillows included</li></ul>",
+  "category": {
+    "$oid": "668de8af7014cb187b74a433"
+  },
+  "brand": {
+    "$oid": "668b82581596cbb67319eb56"
+  },
+  "colors": [
+    {
+      "name": "Black",
+      "thumb": "public\\uploads\\images\\ae09fa24-b83e-4f99-92ba-722c8500be14.webp",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\56460cb9-16db-4f3b-8c75-d7082a33afb5.webp",
+        "public\\uploads\\images\\ff9b4177-29f2-4196-8639-ccad2de26a48.webp",
+        "public\\uploads\\images\\f6fa526a-85ba-424f-95f5-4c3913f939b1.webp",
+        "public\\uploads\\images\\234e976b-41d7-43a0-a9d8-771b15678c07.webp",
+        "public\\uploads\\images\\563e1229-e1b7-4bd4-b4ec-b2a358cfda0d.webp",
+        "public\\uploads\\images\\badd392a-9166-4db9-8257-0bf5aae14bc8.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a0953f36c945e029294573"
+      },
+      "createdAt": {
+        "$date": "2024-07-24T05:46:39.928Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T05:46:39.928Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b5204362a6e30edd7f3aa"
+    }
+  ],
+  "dimensions": {
+    "width": 66,
+    "height": 35,
+    "depth": 36
+  },
+  "weight": 110,
+  "material": "Velvet, Wood",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-24T05:46:39.928Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:46:39.928Z"
+  },
+  "slug": "bea-black-velvet-loveseat",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a095d836c945e0292945bb"
+  },
+  "name": "Calliope Cream Vegan Shearling Modular Loveseat",
+  "SKU": "LS002",
+  "price": 1099,
+  "discount": 30,
+  "description": "<h3><strong>Calliope Cream Vegan Shearling Modular Loveseat</strong></h3><p>&nbsp;</p><p>Introducing the Calliope Modular Collection, featuring ultra-soft upholstery that brings unmatched comfort. The deep hand-tufted structure creates the cushioning curves reminiscent of a brioche bun, enveloping you in a pillowy silhouette. With a modular layout allowing for endless configuration possibilities, the movable cushions add versatility, enabling you to customize your space easily. Available in cream vegan shearling and cafe au lait performance velvet options.</p><h3><strong>Features</strong></h3><p>&nbsp;</p><ul><li>Handmade by skilled atisans</li><li>Ultra-soft vegan shearling upholstery</li><li>Pillowy silhouette with deep hand-tufted design</li><li>Modular design allows for endless configuration possibilities - create your dream piece for your space</li><li>Removable arms can also be used as a backrest or headrest</li><li>Fabric swatch available upon request</li></ul>",
+  "category": {
+    "$oid": "668de8af7014cb187b74a433"
+  },
+  "brand": {
+    "$oid": "667acf67b3b8465d5086412b"
+  },
+  "colors": [
+    {
+      "name": "White",
+      "thumb": "public\\uploads\\images\\71e18f2c-9915-4443-8751-5b514510d285.avif",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\02934734-2499-495c-a501-512ca41cd10a.webp",
+        "public\\uploads\\images\\6afe10aa-cb09-4e54-a668-98a04c532a6a.webp",
+        "public\\uploads\\images\\8d8abe73-87a1-46d5-9faa-52ebb5af1818.webp",
+        "public\\uploads\\images\\45dc14dd-bf6a-40d6-94dd-14580c7c91f3.webp",
+        "public\\uploads\\images\\d56f2ad4-a6c8-4dbb-8072-317cba4dbd47.webp",
+        "public\\uploads\\images\\4daf52a6-b1a5-4139-b177-2e8c0c70f005.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a095d836c945e0292945bc"
+      },
+      "createdAt": {
+        "$date": "2024-07-24T05:49:12.837Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T05:49:12.837Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b5204362a6e30edd7f3aa"
+    }
+  ],
+  "dimensions": {
+    "width": 78,
+    "height": 34,
+    "depth": 39
+  },
+  "weight": 115,
+  "material": "Fabric, Plywood, Wood",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-24T05:49:12.837Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T05:49:12.837Z"
+  },
+  "slug": "calliope-cream-vegan-shearling-modular-loveseat",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a364bad4d8822a0c8f93a7"
+  },
+  "name": "Bara Cream Textured Velvet Bed",
+  "SKU": "B001",
+  "price": 1049,
+  "discount": 20,
+  "description": "<h2><strong>Bara Cream Textured Velvet Queen Bed</strong></h2><p>&nbsp;</p><p>Amorphous shapes are trending! The Bara bed perfectly encapsulates coziness and style with its stunning textured velvet upholstery. This bed doesn't just follow the trend; it sets the standard. Make your bedroom a statement with the Bara Cream Textured Velvet Bed, where comfort and fashion effortlessly come together.</p><p>&nbsp;</p><h2><strong>Features</strong></h2><p>&nbsp;</p><ul><li>Handmade by skilled furniture atisans</li><li>Stunning textured velvet upholstery</li><li>Available in king or queen sizes</li><li>No box spring required and slats are included</li><li>Assembly required</li></ul>",
+  "category": {
+    "$oid": "668de98dc0af5e150598b8df"
+  },
+  "brand": {
+    "$oid": "668b82581596cbb67319eb56"
+  },
+  "colors": [
+    {
+      "name": "Cream",
+      "thumb": "public\\uploads\\images\\b1594eb1-b655-415b-b63f-f00603bfa877.avif",
+      "stock": 99,
+      "images": [
+        "public\\uploads\\images\\9d2e6bd9-75b9-4a75-8b20-df78b138de3c.webp",
+        "public\\uploads\\images\\fa381b0e-cdba-48cc-9f6e-d339c7d061a6.webp",
+        "public\\uploads\\images\\a14b1e43-6410-4b22-9cf1-14a436a20bb9.webp",
+        "public\\uploads\\images\\b198aee4-9d3b-4c97-87b0-3456973b16ed.webp",
+        "public\\uploads\\images\\e485b8e1-34a3-470b-93cb-ab2121c68151.webp",
+        "public\\uploads\\images\\5aaaa8cb-9c3d-4a08-8fd5-4c6ea1fd5763.webp",
+        "public\\uploads\\images\\b1839385-20ff-4f28-9c95-bccd64e34b08.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a364bad4d8822a0c8f93a8"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T08:56:26.828Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T09:21:03.906Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b5238362a6e30edd7f3b9"
+    }
+  ],
+  "dimensions": {
+    "width": 71,
+    "height": 39,
+    "depth": 92
+  },
+  "weight": 113,
+  "material": "Plywood, Velvet",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T08:56:26.828Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T09:21:03.906Z"
+  },
+  "slug": "bara-cream-textured-velvet-bed",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36531d4d8822a0c8f93f4"
+  },
+  "name": "Grappa Natural Wood & Rattan Bed",
+  "SKU": "B002",
+  "price": 999,
+  "discount": 20,
+  "description": "<h2><strong>Grappa Natural Wood &amp; Rattan Queen Bed</strong></h2><p>&nbsp;</p><p>Experience the ultimate blend of boho and modern design with the Grappa Bedroom Collection, where the cool natural aesthetic shines through its natural rattan woven materials, complemented by the solid, durable rubberwood base. This bed evokes the serenity of ocean waves, lulling you to sleep. Transform your sleeping space into a tranquil retreat, embodying the spirit of coastal cool and comfort with the Grappa Bedroom Collection. Available in King and Queen sizes.</p><p>&nbsp;</p><h3><strong>Features</strong></h3><p>&nbsp;</p><ul><li>Natural wood finish and woven rattan design</li><li>Available in King and Queen sizes</li><li>Slats included - box spring is not required</li><li>Handmade by skilled furniture craftspeople</li><li>Assembly required</li></ul>",
+  "category": {
+    "$oid": "668de98dc0af5e150598b8df"
+  },
+  "brand": {
+    "$oid": "668b82521596cbb67319eb53"
+  },
+  "colors": [
+    {
+      "name": "Brown",
+      "thumb": "public\\uploads\\images\\1b1bc65e-6982-4dc9-adb7-a104edb04d3d.jpg",
+      "stock": 99,
+      "images": [
+        "public\\uploads\\images\\f432c02e-adf9-49bd-a9ab-05c6e72f79ab.webp",
+        "public\\uploads\\images\\c0893af0-a6ce-4648-bf33-a04916bc3d24.webp",
+        "public\\uploads\\images\\38e39369-c929-4b06-8efa-24abff7cf827.webp",
+        "public\\uploads\\images\\3858d439-4ba4-41f6-b98e-5f44a902e761.webp",
+        "public\\uploads\\images\\19a1260e-7062-4993-ad2b-b55cbf880859.webp",
+        "public\\uploads\\images\\0c60edb7-7a4d-48b5-a528-4544ac2a46b3.webp",
+        "public\\uploads\\images\\2a7f1665-9e66-4a6c-8bc4-c9976999edb7.webp",
+        "public\\uploads\\images\\a8c442f8-0bdb-4db2-8b45-329dd5d749f1.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a36531d4d8822a0c8f93f5"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T08:58:25.225Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T09:41:25.409Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b5238362a6e30edd7f3b9"
+    }
+  ],
+  "dimensions": {
+    "width": 63,
+    "height": 48,
+    "depth": 84
+  },
+  "weight": 117,
+  "material": "MDF, Raffia, Veneer, Wood",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T08:58:25.225Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T09:41:25.410Z"
+  },
+  "slug": "grappa-natural-wood-and-rattan-bed",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36612d4d8822a0c8f94e5"
+  },
+  "name": "Ophelia Cream Faux Wool Bed",
+  "SKU": "B003",
+  "price": 799,
+  "discount": 29,
+  "description": "<h3><strong>Ophelia Cream Faux Wool Queen Bed</strong></h3><p>&nbsp;</p><p>Introducing the Ophelia Cream Faux Wool Bed, a refreshingly modern rendition of a classic mid-century silhouette that makes a bold statement in any bedroom. Supported by unique straddling solid wood legs, the curvaceous and rounded frame is upholstered in a soft faux wool blend, providing the visual texture of wool without the scratchy fibers. The oversized, thick, and rounded headboard features super trendy oversized piping, and for an added touch of style, it comes with two matching bolster pillows, creating a chic and inviting focal point for your sleep sanctuary.</p><h3><strong>Features</strong></h3><p>&nbsp;</p><ul><li>Handmade by skilled furniture atisans</li><li>Neutral cream color designed to complement any space</li><li>Includes two bolster pillows measuring 21.5\"W x 6.3\"Diameter</li><li>Available in King and Queen size options</li><li>Slats included, no box spring required</li><li>Fabric swatch available upon request</li></ul>",
+  "category": {
+    "$oid": "668de98dc0af5e150598b8df"
+  },
+  "brand": {
+    "$oid": "668b825d1596cbb67319eb59"
+  },
+  "colors": [
+    {
+      "name": "White",
+      "thumb": "public\\uploads\\images\\1389b4a3-7e9d-49f5-b435-8aeef86e69fc.webp",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\5692efac-e28b-4951-b343-fdc0f6cba428.webp",
+        "public\\uploads\\images\\94793edd-b97b-4116-b877-9c6486cde8af.webp",
+        "public\\uploads\\images\\b14e88b6-595b-4fce-b77e-9a28d81c0543.webp",
+        "public\\uploads\\images\\632999c3-7134-4599-aa68-91bfc326b0ac.webp",
+        "public\\uploads\\images\\6e2c0cac-d9a5-4fbe-a843-15cb12e0e776.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a36612d4d8822a0c8f94e6"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T09:02:10.577Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T09:02:10.577Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b5238362a6e30edd7f3b9"
+    }
+  ],
+  "dimensions": {
+    "width": 87,
+    "height": 38,
+    "depth": 94
+  },
+  "weight": 150,
+  "material": "Fabric, MDF, Pine",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T09:02:10.577Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T09:02:10.577Z"
+  },
+  "slug": "ophelia-cream-faux-wool-bed",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36689d4d8822a0c8f9536"
+  },
+  "name": "Serenity Cream Velvet Bed",
+  "SKU": "B004",
+  "price": 999,
+  "discount": 20,
+  "description": "<h2><strong>Serenity Cream Velvet Bed In King</strong></h2><p>&nbsp;</p><p>Details make all the difference. The Serenity Bed is not only soft to the touch but doubles as a piece of art with its magnificent, sculpted frame. Transform your room forever with this romantic-inspired piece and fall in love. Available in queen and king in sumptuous cream velvet.</p><p>&nbsp;</p><h2><strong>Features</strong></h2><p>&nbsp;</p><ul><li>Magnificent sculpted headboard</li><li>Handmade by skilled furniture atisans</li><li>Kiln dried wood frame</li><li>Weathered Oak legs</li><li>Sumptuous velvet upholstery</li><li>Available in multiple sizes</li><li>No box spring required and slats are included</li><li>Fabric swatch available</li><li>Assembly required</li></ul>",
+  "category": {
+    "$oid": "668de98dc0af5e150598b8df"
+  },
+  "brand": {
+    "$oid": "668b824b1596cbb67319eb50"
+  },
+  "colors": [
+    {
+      "name": "White",
+      "thumb": "public\\uploads\\images\\efa29782-2eb7-40fb-8694-ea9bbb964a4e.webp",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\48939566-8ca4-4a5f-b633-31870137d684.webp",
+        "public\\uploads\\images\\770aacc0-f88d-48e2-85b3-1257cd989d56.webp",
+        "public\\uploads\\images\\be435b56-07b7-4fcc-9505-803edd7571d8.webp",
+        "public\\uploads\\images\\3423217c-9eae-4e44-b26a-b02d23e6d3c8.webp",
+        "public\\uploads\\images\\66c62a8f-1e30-4a21-92e8-923469723967.webp",
+        "public\\uploads\\images\\fc0678b9-f403-4e07-a42b-6861e3d87f3e.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a36689d4d8822a0c8f9537"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T09:04:09.321Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T09:04:09.321Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b5238362a6e30edd7f3b9"
+    }
+  ],
+  "dimensions": {
+    "width": 81,
+    "height": 63,
+    "depth": 85
+  },
+  "weight": 119,
+  "material": "Velvet",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T09:04:09.322Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T09:04:09.322Z"
+  },
+  "slug": "serenity-cream-velvet-bed",
+  "__v": 0
+}]

@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "668df159c0af5e150598ba51"
+  },
+  "title": "NEW ARRIVALS",
+  "heading": "Chairs & Seating You'll Love",
+  "image": "public\\uploads\\images\\b97995ca-1ccc-41b9-9ef8-50b66c0b84fb.png",
+  "description": "Design chair styles for every space - Free shipping",
+  "link": "/shop/accent-chairs",
+  "active": true,
+  "createdAt": {
+    "$date": "2024-07-10T02:26:33.373Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T07:45:20.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668df18dc0af5e150598ba54"
+  },
+  "title": "SALE OFF 30%",
+  "heading": "Lamp & Lightning Great Low Prices",
+  "image": "public\\uploads\\images\\8c53e1e3-1b1a-4edf-b7ba-34cb5f84aa6e.png",
+  "description": "Free standard shipping with $35",
+  "link": "/shop/lightning",
+  "active": true,
+  "createdAt": {
+    "$date": "2024-07-10T02:27:25.192Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T07:45:44.036Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668df1b4c0af5e150598ba57"
+  },
+  "title": "SALE OFF 25%",
+  "heading": "Discover Living Room Tables",
+  "image": "public\\uploads\\images\\ee317587-0a7d-4ef4-b4a5-220ed5ae30f0.png",
+  "description": "Free standard shipping with $45",
+  "link": "/shop/side-tables",
+  "active": true,
+  "createdAt": {
+    "$date": "2024-07-10T02:28:04.432Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T07:45:50.300Z"
+  },
+  "__v": 0
+}]

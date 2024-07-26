@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "667acf5eb3b8465d50864128"
+  },
+  "name": "Aaron",
+  "description": "Aaron được biết đến là thương hiệu sản xuất, kinh doanh các sản phẩm đồ gỗ nội thất có quy mô và danh tiếng lớn nhất nước Mỹ. Tính trung bình, Nội thất Aaron phục vụ khoảng 1,4 triệu lượt khách hàng trong một năm. Đơn vị này hiện nay có tổng cộng 12 nhà máy sản xuất đồ gỗ nội thất, 17 trung tâm phân phối cùng hơn 2.000 các phòng trưng bày trên khắp thế giới. Đến với Nội thất Aaron, khách hàng hoàn toàn có thể tìm thấy những bộ sofa, bàn ghế, nội thất phòng ngủ, nội thất phòng khách… đẹp hoàn hảo cho các không gian sống của mình.",
+  "active": true,
+  "createdAt": {
+    "$date": "2024-06-25T14:08:30.546Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T06:09:31.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667acf67b3b8465d5086412b"
+  },
+  "name": "French Heritage",
+  "description": "Nhắc đến những thương hiệu nội thất nổi tiếng nhất toàn cầu hiện nay không thể không kể đến Nội thất French Heritage của Pháp. Đây được xem là một công ty sản xuất các sản phẩm nội thất cao cấp với các thiết kế độc quyền tinh xảo mang đậm phong cách và văn hoá Pháp. Hầu hết những sản phẩm decor nội thất của French Heritage được tạo nên bởi sự kết hợp tinh tế giữa phong cách hiện đại cùng cảm hứng từ một nước Pháp hào hoa, lãng mạn. Với French Heritage, hoàn toàn không có giới hạn cho sự sáng tạo vẻ đẹp của các sản phẩm nội thất và luôn tạo nên sự thoải mái, thư giãn tuyệt đối cho khách hàng trong quá trình sử dụng.",
+  "active": true,
+  "createdAt": {
+    "$date": "2024-06-25T14:08:39.459Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T06:09:24.014Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b824b1596cbb67319eb50"
+  },
+  "name": "Dunelm Group",
+  "description": "Dunelm Mill là tên gọi thương hiệu nội thất nổi tiếng của tập đoàn Dunelm Group, có trụ sở đặt tại Business Park Watermead, chuyên kinh doanh các mặt hàng nội thất với quy mô lớn. Theo thống kê, Dunelm Mill hiện có hơn 150 cửa hàng nội thất trên khắp cả nước. Những sản phẩm nội thất của thương hiệu này luôn được khách hàng yêu thích và đánh giá cao.",
+  "active": true,
+  "createdAt": {
+    "$date": "2024-07-08T06:08:11.731Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T06:09:08.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b82521596cbb67319eb53"
+  },
+  "name": "Dietiker ",
+  "description": "Dietiker  nằm trong top các thương hiệu nổi tiếng hàng đầu thế giới, Nội thất Dietiker có lịch sử phát triển lâu đời với mốc thành lập từ năm 1878. Các sản phẩm nội thất của thương hiệu này rất đa dạng, từ bàn ghế, nội thất phòng khách, nội thất phòng ngủ… theo phong cách cổ điển với chất lượng cao cấp, luôn nằm trong top đầu lựa chọn của khách hàng.",
+  "active": true,
+  "createdAt": {
+    "$date": "2024-07-08T06:08:18.321Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T06:09:14.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b82581596cbb67319eb56"
+  },
+  "name": "Steelcase ",
+  "description": "Một thương hiệu nội thất nữa của Mỹ cũng xứng đáng có mặt trong số ít những công ty nội thất nổi tiếng nhất toàn cầu, đó là Nội thất Steelcase. Đây là thương hiệu nội thất ra đời năm 1912 tại Grand Rapids. Hiện nay, các văn phòng đại diện, cơ sở kinh doanh và nhà máy sản xuất của Steelcase đã có mặt ở nhiều nước ở châu Á, châu Mỹ, Úc và Trung Đông. Những sản phẩm nội thất tinh xảo, độc đáo của Steelcase luôn nhận được sự gật đầu hài lòng của mọi khách hàng, kể cả những khách hàng khó tính nhất.",
+  "active": true,
+  "createdAt": {
+    "$date": "2024-07-08T06:08:24.550Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T06:08:49.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b825d1596cbb67319eb59"
+  },
+  "name": "Ashley ",
+  "description": "Ashley được biết đến là một thương hiệu sản xuất và kinh doanh đồ gỗ nội thất có quy mô lớn nhất thế giới, bao gồm các trụ sở chính đặt tại Florida, WI, Brandon và Arcadia. Mạng lưới kinh doanh của Ashley được mở rộng khắp toàn cầu dưới sự tư vấn của đội ngũ các chuyên gia nội thất sáng tạo và giàu kinh nghiệm, góp phần mang đến các không gian sống tiện nghi và hiện đại nhất cho con người ở mọi châu lục trên thế giới.",
+  "active": true,
+  "createdAt": {
+    "$date": "2024-07-08T06:08:29.549Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T06:08:42.602Z"
+  },
+  "__v": 0
+}]

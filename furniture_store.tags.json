@@ -1,0 +1,429 @@
+[{
+  "_id": {
+    "$oid": "667acf71b3b8465d50864132"
+  },
+  "name": "Accent Chairs",
+  "createdAt": {
+    "$date": "2024-06-25T14:08:49.947Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:41:50.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667acf75b3b8465d50864135"
+  },
+  "name": "Sofas",
+  "createdAt": {
+    "$date": "2024-06-25T14:08:53.434Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:41:53.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b51fc362a6e30edd7f3a7"
+  },
+  "name": "Sectionals",
+  "createdAt": {
+    "$date": "2024-07-08T02:42:04.828Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:42:04.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b5204362a6e30edd7f3aa"
+  },
+  "name": "Loveseats & Settees",
+  "createdAt": {
+    "$date": "2024-07-08T02:42:12.646Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:42:12.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b5209362a6e30edd7f3ad"
+  },
+  "name": "Benches & Ottomans",
+  "createdAt": {
+    "$date": "2024-07-08T02:42:17.464Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:42:17.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b5218362a6e30edd7f3b0"
+  },
+  "name": "Side Tables",
+  "createdAt": {
+    "$date": "2024-07-08T02:42:32.788Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:42:32.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b521e362a6e30edd7f3b3"
+  },
+  "name": "Coffee & Cocktail Tables",
+  "createdAt": {
+    "$date": "2024-07-08T02:42:38.291Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:42:38.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b5223362a6e30edd7f3b6"
+  },
+  "name": "Console Tables",
+  "createdAt": {
+    "$date": "2024-07-08T02:42:43.434Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:42:43.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b5238362a6e30edd7f3b9"
+  },
+  "name": "Beds",
+  "createdAt": {
+    "$date": "2024-07-08T02:43:04.899Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:43:04.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b523f362a6e30edd7f3bc"
+  },
+  "name": "Chests & Dressers",
+  "createdAt": {
+    "$date": "2024-07-08T02:43:11.035Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:43:11.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b5243362a6e30edd7f3bf"
+  },
+  "name": "Nightstands",
+  "createdAt": {
+    "$date": "2024-07-08T02:43:15.596Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:43:15.596Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b5247362a6e30edd7f3c2"
+  },
+  "name": "Vanities",
+  "createdAt": {
+    "$date": "2024-07-08T02:43:19.745Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:43:19.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b524c362a6e30edd7f3c5"
+  },
+  "name": "Mattresses",
+  "createdAt": {
+    "$date": "2024-07-08T02:43:24.041Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:43:24.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b5267362a6e30edd7f3c8"
+  },
+  "name": "Dining Chairs",
+  "createdAt": {
+    "$date": "2024-07-08T02:43:51.356Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:43:51.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b526a362a6e30edd7f3cb"
+  },
+  "name": "Dining Tables",
+  "createdAt": {
+    "$date": "2024-07-08T02:43:54.985Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:43:54.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b526f362a6e30edd7f3ce"
+  },
+  "name": "Bar & Counter Stools",
+  "createdAt": {
+    "$date": "2024-07-08T02:43:59.025Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:43:59.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b5273362a6e30edd7f3d1"
+  },
+  "name": "Buffets & Bars",
+  "createdAt": {
+    "$date": "2024-07-08T02:44:03.792Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:44:03.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b527f362a6e30edd7f3d4"
+  },
+  "name": "Desks",
+  "createdAt": {
+    "$date": "2024-07-08T02:44:15.694Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:44:15.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b5284362a6e30edd7f3d7"
+  },
+  "name": "Office Chairs",
+  "createdAt": {
+    "$date": "2024-07-08T02:44:20.208Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:44:20.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b529d362a6e30edd7f3da"
+  },
+  "name": "Outdoor Seating",
+  "createdAt": {
+    "$date": "2024-07-08T02:44:45.965Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:44:45.965Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b52a2362a6e30edd7f3dd"
+  },
+  "name": "Outdoor Tables",
+  "createdAt": {
+    "$date": "2024-07-08T02:44:50.832Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:44:50.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b52ab362a6e30edd7f3e0"
+  },
+  "name": "Entryway",
+  "createdAt": {
+    "$date": "2024-07-08T02:44:59.915Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:44:59.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b52ca362a6e30edd7f3e3"
+  },
+  "name": "Tabletop",
+  "createdAt": {
+    "$date": "2024-07-08T02:45:30.231Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:45:30.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b52ce362a6e30edd7f3e6"
+  },
+  "name": "Bookends",
+  "createdAt": {
+    "$date": "2024-07-08T02:45:34.128Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:45:34.128Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b52d1362a6e30edd7f3e9"
+  },
+  "name": "Pet Beds",
+  "createdAt": {
+    "$date": "2024-07-08T02:45:37.810Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:45:37.810Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b52d5362a6e30edd7f3ec"
+  },
+  "name": "Mirrors",
+  "createdAt": {
+    "$date": "2024-07-08T02:45:41.944Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:45:41.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b52d9362a6e30edd7f3ef"
+  },
+  "name": "Rugs",
+  "createdAt": {
+    "$date": "2024-07-08T02:45:45.178Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:45:45.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b52dd362a6e30edd7f3f2"
+  },
+  "name": "Pillows & Throws",
+  "createdAt": {
+    "$date": "2024-07-08T02:45:49.640Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:45:49.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b52e1362a6e30edd7f3f5"
+  },
+  "name": "Vases",
+  "createdAt": {
+    "$date": "2024-07-08T02:45:53.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:45:53.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b52fc362a6e30edd7f3f9"
+  },
+  "name": "Table Lamps",
+  "createdAt": {
+    "$date": "2024-07-08T02:46:20.393Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:46:20.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b5303362a6e30edd7f3fc"
+  },
+  "name": "Floor Lamps",
+  "createdAt": {
+    "$date": "2024-07-08T02:46:27.921Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:46:27.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b5309362a6e30edd7f3ff"
+  },
+  "name": "Ceiling Lamps",
+  "createdAt": {
+    "$date": "2024-07-08T02:46:33.394Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:46:33.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b530e362a6e30edd7f402"
+  },
+  "name": "Sconces",
+  "createdAt": {
+    "$date": "2024-07-08T02:46:38.457Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T02:46:38.457Z"
+  },
+  "__v": 0
+}]

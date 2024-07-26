@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "669f5931be83a04d9966037e"
+  },
+  "avatar": "public\\uploads\\images\\a0c1ceec-9b71-4fb5-a7ea-8a71f60b7345.webp",
+  "firstName": "Phan Thanh",
+  "lastName": "Duy",
+  "email": "admin@gmail.com",
+  "password": "779e7433ffb7d0b9002cfaa47a72840c726d6897611605a6267bae14dea97032d0756e01e1f3800b86e8e95d43018c011838f52ece0b76fdefa2119729bbab6d",
+  "phoneNumber": "0344134844",
+  "admin": true,
+  "token": null,
+  "wishlist": [
+    {
+      "product": {
+        "$oid": "669f67aa9bf9f595a3703c79"
+      },
+      "addedAt": "23/07/2024 15:29",
+      "_id": {
+        "$oid": "669f69ed9bf9f595a3704016"
+      }
+    },
+    {
+      "product": {
+        "$oid": "669f62f49bf9f595a370385d"
+      },
+      "addedAt": "26/07/2024 15:46",
+      "_id": {
+        "$oid": "66a3627ad4d8822a0c8f9280"
+      }
+    },
+    {
+      "product": {
+        "$oid": "669f63939bf9f595a37038c9"
+      },
+      "addedAt": "26/07/2024 15:46",
+      "_id": {
+        "$oid": "66a3627cd4d8822a0c8f9292"
+      }
+    }
+  ],
+  "addresses": [
+    {
+      "firstName": "Phan Thanh",
+      "lastName": "Duy",
+      "email": "phanthanhduy2610@gmail.com",
+      "phoneNumber": "0344134844",
+      "city": {
+        "id": "06",
+        "name": "Bắc Kạn",
+        "name_en": "Bac Kan",
+        "full_name": "Tỉnh Bắc Kạn",
+        "full_name_en": "Bac Kan Province",
+        "latitude": "22.2571701",
+        "longitude": "105.8204437"
+      },
+      "district": {
+        "id": "063",
+        "name": "Bạch Thông",
+        "name_en": "Bach Thong",
+        "full_name": "Huyện Bạch Thông",
+        "full_name_en": "Bach Thong District",
+        "latitude": "22.20210065",
+        "longitude": "105.9357949031498"
+      },
+      "ward": {
+        "id": "02014",
+        "name": "Dương Phong",
+        "name_en": "Duong Phong",
+        "full_name": "Xã Dương Phong",
+        "full_name_en": "Duong Phong Commune",
+        "latitude": "",
+        "longitude": ""
+      },
+      "addressLine": "Bắc Kạn, Đắc Nông",
+      "isDefault": true,
+      "_id": {
+        "$oid": "669f697d9bf9f595a3703f01"
+      }
+    },
+    {
+      "firstName": "Phan Thanh",
+      "lastName": "Duy",
+      "email": "phanthanhduy2610@gmail.com",
+      "phoneNumber": "0344134844",
+      "city": {
+        "id": "95",
+        "name": "Bạc Liêu",
+        "name_en": "Bac Lieu",
+        "full_name": "Tỉnh Bạc Liêu",
+        "full_name_en": "Bac Lieu Province",
+        "latitude": "9.3298341",
+        "longitude": "105.509946"
+      },
+      "district": {
+        "id": "961",
+        "name": "Hoà Bình",
+        "name_en": "Hoa Binh",
+        "full_name": "Huyện Hoà Bình",
+        "full_name_en": "Hoa Binh District",
+        "latitude": "9.257159900000001",
+        "longitude": "105.63050185969095"
+      },
+      "ward": {
+        "id": "31918",
+        "name": "Vĩnh Bình",
+        "name_en": "Vinh Binh",
+        "full_name": "Xã Vĩnh Bình",
+        "full_name_en": "Vinh Binh Commune",
+        "latitude": "9.3189409",
+        "longitude": "105.5510017"
+      },
+      "addressLine": "Bac Lieu Hoa Binh",
+      "isDefault": false,
+      "_id": {
+        "$oid": "66a36c04d4d8822a0c8fa16b"
+      }
+    }
+  ],
+  "salt": "23bbf5849dd1b9cac1df500e2fca5171",
+  "createdAt": {
+    "$date": "2024-07-23T07:18:09.836Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T09:31:03.406Z"
+  },
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "66a36cf9d4d8822a0c8fa3c3"
+  },
+  "avatar": "",
+  "firstName": "Bui",
+  "lastName": "Vi",
+  "email": "abcd@gmail.com",
+  "password": "350ebb5c03fd6cd0d4bd10e1bba817674e5f61f05a8851490c3568a3250cd38e6958a70d3e95adfec0aeff7aa28dcdb140baf13025672a33bb8ef407d56fbf67",
+  "phoneNumber": "0123456789",
+  "admin": false,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NmEzNmNmOWQ0ZDg4MjJhMGM4ZmEzYzMiLCJpYXQiOjE3MjE5ODYzMzMsImV4cCI6MTcyMjA3MjczM30.NrwwF4zh60H-IPv_pNgxiKg8JrVGi-8seRAfcYU_ri0",
+  "wishlist": [],
+  "addresses": [
+    {
+      "firstName": "Bui",
+      "lastName": "Vi",
+      "email": "abcd@gmail.com",
+      "phoneNumber": "0123456789",
+      "city": {
+        "id": "77",
+        "name": "Bà Rịa - Vũng Tàu",
+        "name_en": "Ba Ria - Vung Tau",
+        "full_name": "Tỉnh Bà Rịa - Vũng Tàu",
+        "full_name_en": "Ba Ria - Vung Tau Province",
+        "latitude": "10.5738801",
+        "longitude": "107.3284362"
+      },
+      "district": {
+        "id": "750",
+        "name": "Châu Đức",
+        "name_en": "Chau Duc",
+        "full_name": "Huyện Châu Đức",
+        "full_name_en": "Chau Duc District",
+        "latitude": "10.6564461",
+        "longitude": "107.26674688112058"
+      },
+      "ward": {
+        "id": "26599",
+        "name": "Cù Bị",
+        "name_en": "Cu Bi",
+        "full_name": "Xã Cù Bị",
+        "full_name_en": "Cu Bi Commune",
+        "latitude": "10.7339418",
+        "longitude": "107.1854217"
+      },
+      "addressLine": "ba ria cung tau",
+      "isDefault": true,
+      "_id": {
+        "$oid": "66a36e60d4d8822a0c8fa515"
+      }
+    }
+  ],
+  "salt": "bd6612f3ee88c00bcd29c459c2a4ce17",
+  "createdAt": {
+    "$date": "2024-07-26T09:31:37.260Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T10:03:04.412Z"
+  },
+  "__v": 3
+}]

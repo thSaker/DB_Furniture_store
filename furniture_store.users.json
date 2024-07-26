@@ -9,7 +9,7 @@
   "password": "779e7433ffb7d0b9002cfaa47a72840c726d6897611605a6267bae14dea97032d0756e01e1f3800b86e8e95d43018c011838f52ece0b76fdefa2119729bbab6d",
   "phoneNumber": "0344134844",
   "admin": true,
-  "token": null,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjlmNTkzMWJlODNhMDRkOTk2NjAzN2UiLCJpYXQiOjE3MjIwMDIyMTYsImV4cCI6MTcyMjA4ODYxNn0.bI9G_D4hOmIdeVOhw1xnlRUyOCRgRgfl4H2GsrSvses",
   "wishlist": [
     {
       "product": {
@@ -122,7 +122,7 @@
     "$date": "2024-07-23T07:18:09.836Z"
   },
   "updatedAt": {
-    "$date": "2024-07-26T09:31:03.406Z"
+    "$date": "2024-07-26T13:56:56.859Z"
   },
   "__v": 5
 },
@@ -137,7 +137,7 @@
   "password": "350ebb5c03fd6cd0d4bd10e1bba817674e5f61f05a8851490c3568a3250cd38e6958a70d3e95adfec0aeff7aa28dcdb140baf13025672a33bb8ef407d56fbf67",
   "phoneNumber": "0123456789",
   "admin": false,
-  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NmEzNmNmOWQ0ZDg4MjJhMGM4ZmEzYzMiLCJpYXQiOjE3MjE5ODYzMzMsImV4cCI6MTcyMjA3MjczM30.NrwwF4zh60H-IPv_pNgxiKg8JrVGi-8seRAfcYU_ri0",
+  "token": null,
   "wishlist": [],
   "addresses": [
     {
@@ -184,7 +184,7 @@
     "$date": "2024-07-26T09:31:37.260Z"
   },
   "updatedAt": {
-    "$date": "2024-07-26T10:03:04.412Z"
+    "$date": "2024-07-26T13:56:42.310Z"
   },
   "__v": 3
 }]

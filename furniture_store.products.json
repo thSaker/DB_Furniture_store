@@ -1700,4 +1700,1169 @@
   },
   "slug": "serenity-cream-velvet-bed",
   "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a39f8686ed134c2161deab"
+  },
+  "name": "Ari Cream Vegan Leather Dining Chair - Set of 2",
+  "SKU": "DN001",
+  "price": 658,
+  "discount": 20,
+  "description": "<h2><strong>Ari Cream Vegan Leather Dining Chair - Set Of 2</strong></h2><p>&nbsp;</p><p>Manifest some mid-century charm into your dining space with the Ari Cream Vegan Leather Dining Chair, available in a set of 2, perfectly blending form with function. Crafted with a solid wood, mid-century modern frame, this chair boasts soft vegan leather upholstery that not only offers a luxurious feel but also ensures easy cleaning and maintenance. Its thoughtfully designed, comfortable back angle invites guests to linger longer at the table, making every meal a mood.</p><p>&nbsp;</p><h2><strong>Features</strong></h2><ul><li>Easy-to-clean vegan leather upholstery</li><li>Solid wood frame offers durability and support</li><li>Handmade by skilled furniture craftspeople</li><li>Includes two dining chairs</li><li>Arrives fully assembled</li></ul>",
+  "category": {
+    "$oid": "668dea22c0af5e150598b91a"
+  },
+  "brand": {
+    "$oid": "668b825d1596cbb67319eb59"
+  },
+  "colors": [
+    {
+      "name": "Cream",
+      "thumb": "public\\uploads\\images\\a4220c21-6abc-455b-b805-f219484ef4df.avif",
+      "stock": 109,
+      "images": [
+        "public\\uploads\\images\\3a584e9e-4fac-4108-8b9e-46dbabe631b7.webp",
+        "public\\uploads\\images\\dcff1639-7951-4ed7-9472-1cfdbd1c7e53.webp",
+        "public\\uploads\\images\\bfa1d4fe-0493-4ca6-ab7b-222d1b6df743.webp",
+        "public\\uploads\\images\\880c3928-5b30-4efb-92d6-616d49d7c9d9.webp",
+        "public\\uploads\\images\\4bfe3e69-5b3c-4ad0-912c-891819888262.webp",
+        "public\\uploads\\images\\a4510490-fe33-4453-9ccf-22bb29088558.webp",
+        "public\\uploads\\images\\7b707309-4616-4d75-9891-8509fe61a33a.webp",
+        "public\\uploads\\images\\b00399cd-1000-450a-8ea8-867fd9875b11.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a39f8686ed134c2161deac"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T13:07:18.652Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T15:42:46.739Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b5267362a6e30edd7f3c8"
+    }
+  ],
+  "dimensions": {
+    "width": 20,
+    "height": 32,
+    "depth": 25
+  },
+  "weight": 22,
+  "material": "Faux Leather, Wood",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T13:07:18.652Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T15:42:46.739Z"
+  },
+  "slug": "ari-cream-vegan-leather-dining-chair-set-of-2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3a00986ed134c2161df08"
+  },
+  "name": "Gata Cream Outdoor Dining Chair - Set of 2",
+  "SKU": "DN002",
+  "price": 599,
+  "discount": 30,
+  "description": "<h2><strong>Gata Cream Outdoor Dining Chair - Set Of 2</strong></h2><p>&nbsp;</p><p>The Gata Cream Outdoor Dining Collection is here! Crafted with solid Eucalyptus wood in a light teak finish, this set is timeless and durable, complementing any outdoor aesthetic. The dining table features a convenient umbrella hole in the middle, complete with a wooden cap, providing the flexibility to use it with or without an umbrella. Accompanied by chairs available in a set of two, this collection seamlessly combines practicality with contemporary design for a delightful outdoor dining experience.</p><p>&nbsp;</p><h2><strong>Features</strong></h2><p>&nbsp;</p><ul><li>Handmade by skilled furniture craftsmen</li><li>Cream outdoor grade upholstery</li><li>Solid Eucalyptus frame in light teak finish</li><li>Ships as a set of two chairs</li><li>Outdoor-safe; cover or store indoors during inclement weather or when not in use</li><li>Ships fully assembled</li></ul>",
+  "category": {
+    "$oid": "668dea22c0af5e150598b91a"
+  },
+  "brand": {
+    "$oid": "668b825d1596cbb67319eb59"
+  },
+  "colors": [
+    {
+      "name": "Cream",
+      "thumb": "public\\uploads\\images\\ce3731b5-2f2a-4945-8568-abfc5c43b1f7.avif",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\74d6b9aa-e4cb-4a92-a7c7-c192418efede.webp",
+        "public\\uploads\\images\\b646fc3a-b9aa-4c52-b0c1-80aafd862baa.webp",
+        "public\\uploads\\images\\0ceba371-35f8-41a5-b80c-13fbcd3567f8.webp",
+        "public\\uploads\\images\\840ea186-e1fd-4739-8276-5e2d2ec0f310.webp",
+        "public\\uploads\\images\\e241390d-f763-4643-b4d7-c1bd5c742a4b.webp",
+        "public\\uploads\\images\\6ac895d8-7bdd-41b8-9477-64f12822f773.webp",
+        "public\\uploads\\images\\3ccdfb10-2cbe-4521-b5e1-977525c0261d.webp",
+        "public\\uploads\\images\\64fd222a-52a9-42c5-ba87-48198788c197.webp",
+        "public\\uploads\\images\\8f15dbfe-1311-4f14-a62a-f280786f0bb0.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a3a00986ed134c2161df09"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T13:09:29.263Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T13:09:29.263Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b5267362a6e30edd7f3c8"
+    }
+  ],
+  "dimensions": {
+    "width": 23,
+    "height": 34,
+    "depth": 33
+  },
+  "weight": 12,
+  "material": "Linen, Wood",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T13:09:29.263Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T13:09:29.263Z"
+  },
+  "slug": "gata-cream-outdoor-dining-chair-set-of-2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3a07f86ed134c2161df67"
+  },
+  "name": "Margaret Performance Chenille Bolster Back Dining Chair",
+  "SKU": "DN003",
+  "price": 279,
+  "discount": 20,
+  "description": "<h2><strong>Margaret Forest Green Performance Chenille Bolster Back Dining Chair</strong></h2><p>&nbsp;</p><p>Meet Margaret! She's the perfect embodiment of sculptural design and retro-Memphis style. This stunning chair is expertly crafted to bring a modern pop to any dining space.The backrest and seat are upholstered in a soft fabric that adds a touch of luxury and texture to the overall design. The comfortable seat cushion provides support and comfort, making it perfect for long dinner parties and gatherings.</p><p>&nbsp;</p><h2><strong>Features</strong></h2><ul><li>Upholstered in water-repellent performance fabric</li><li>Handmade by skilled furniture artisans</li><li>Available in multiple textured chenille color options</li><li>Solid frame offers durability and support</li><li>Fabric swatch available upon request</li><li>Ships fully assembled</li></ul>",
+  "category": {
+    "$oid": "668dea22c0af5e150598b91a"
+  },
+  "brand": {
+    "$oid": "668b824b1596cbb67319eb50"
+  },
+  "colors": [
+    {
+      "name": "Green",
+      "thumb": "public\\uploads\\images\\b55d6df8-7488-4851-ab12-ac443217c1fa.webp",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\7877954e-4979-4f97-aedf-fe9e13b5d9f6.webp",
+        "public\\uploads\\images\\3926dad0-7ec4-4d26-be7d-235c74434b5e.webp",
+        "public\\uploads\\images\\7e770c9c-1512-4ba2-9e7a-8fbafbbf9706.webp",
+        "public\\uploads\\images\\c47c9524-725b-42b9-b1bd-8a8c87bbfbf8.webp",
+        "public\\uploads\\images\\f980e9d6-d3f4-403e-bbf9-1a55bb088162.jpg",
+        "public\\uploads\\images\\00675a58-8bc3-4e30-81b5-a5350e79b313.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a3a07f86ed134c2161df68"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T13:11:27.506Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T13:11:27.506Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b5267362a6e30edd7f3c8"
+    }
+  ],
+  "dimensions": {
+    "width": 21,
+    "height": 29,
+    "depth": 23
+  },
+  "weight": 16,
+  "material": "Fabric, Plywood, Stainless Steel, Wood",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T13:11:27.506Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T13:11:27.506Z"
+  },
+  "slug": "margaret-performance-chenille-bolster-back-dining-chair",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3a11b86ed134c2161dfc8"
+  },
+  "name": "Maxine Cream Vegan Leather Dining Chair",
+  "SKU": "DN004",
+  "price": 299,
+  "discount": 30,
+  "description": "<h2><strong>Maxine Cream Vegan Leather Dining Chair</strong></h2><p>&nbsp;</p><p>Discover the allure of the Maxine Cream Vegan Leather Dining Chair, where comfort meets art-deco sophistication. Featuring easy-to-clean vegan leather, this chair promises both durability and a touch of luxury. The sleek statement of its black iron legs complements the art-deco style, making it a standout addition to any dining space.</p><p>&nbsp;</p><h2><strong>Features</strong></h2><ul><li>Handmade by skilled furniture craftspeople</li><li>Easy-to-clean vegan leather upholstery</li><li>Solid frame offers durability and support</li><li>Arrives fully assembled</li><li>Fabric swatch available upon request</li></ul>",
+  "category": {
+    "$oid": "668dea22c0af5e150598b91a"
+  },
+  "brand": {
+    "$oid": "668b824b1596cbb67319eb50"
+  },
+  "colors": [
+    {
+      "name": "Cream",
+      "thumb": "public\\uploads\\images\\f310921a-67e2-4c36-8c70-8209c182d42a.avif",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\77fc6f1a-23c2-41c2-a62a-23b6d9f6ff5a.webp",
+        "public\\uploads\\images\\fc323340-3023-480c-a948-948144974888.webp",
+        "public\\uploads\\images\\e66cedd7-2e2f-496c-aa1d-3a29a8864c64.webp",
+        "public\\uploads\\images\\6201304f-8689-4900-8eac-9eabdbf11ac9.webp",
+        "public\\uploads\\images\\bafaac26-fecc-41ad-8498-d67defe66d8f.webp",
+        "public\\uploads\\images\\b166d798-fe75-49ce-a26d-04e8c27ceb94.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a3a11b86ed134c2161dfc9"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T13:14:03.231Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T13:14:03.231Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b5267362a6e30edd7f3c8"
+    }
+  ],
+  "dimensions": {
+    "width": 22,
+    "height": 19,
+    "depth": 22
+  },
+  "weight": 16,
+  "material": "Iron, Vegan Leather",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T13:14:03.231Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T13:14:03.231Z"
+  },
+  "slug": "maxine-cream-vegan-leather-dining-chair",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3a27a86ed134c2161e02b"
+  },
+  "name": "Moonrise Natural Ash 2-Drawer Vanity Desk with Mirror",
+  "SKU": "D001",
+  "price": 649,
+  "discount": 20,
+  "description": "<h2><strong>Moonrise Natural Ash 2-Drawer Vanity Desk With Mirror</strong></h2><p>&nbsp;</p><p>Meet the Moonrise Natural Ash 2-Drawer Vanity Desk, a versatile and chic addition to your space. The included circular mirror is removable, transforming this aesthetic vanity setup into a standalone desk. With a soft-closing feature on the undermount drawer glides, adding a touch of quiet luxury, the curved edges wrapped in ash veneer bring a sweet touch. The wonderfully oversized, handmade solid wood handles that echo the mirror shape further elevate both style and functionality.</p><h2>&nbsp;</h2><h2><strong>Features</strong></h2><ul><li>Handmade by skilled furniture craftspeople</li><li>The mirror is included!</li><li>Mirror is removable, allowing this to be either a cute vanity setup, or a standalone desk</li><li>Features soft close drawers</li><li>Felt lined drawers measure 19.4\"W x 13\"D x 2.6\"H</li><li>Mirror measures 31\"W x 22\"H</li><li>Assembly required</li></ul>",
+  "category": {
+    "$oid": "668dea65c0af5e150598b936"
+  },
+  "brand": {
+    "$oid": "668b82581596cbb67319eb56"
+  },
+  "colors": [
+    {
+      "name": "Brown",
+      "thumb": "public\\uploads\\images\\f6795e73-b311-4add-80c4-66c1d2b1b97e.jpg",
+      "stock": 0,
+      "images": [
+        "public\\uploads\\images\\e2dd72f4-830c-4095-b586-fa5beb1966f4.webp",
+        "public\\uploads\\images\\7fb860e2-a622-4617-8d5f-d0054f06742a.webp",
+        "public\\uploads\\images\\dd0432ed-2a40-4648-98c0-4991cd904492.webp",
+        "public\\uploads\\images\\9d520931-2933-4d57-ab76-5e8e5f927376.webp",
+        "public\\uploads\\images\\fce392e9-dd20-488d-a2c5-deb59ae9058e.webp",
+        "public\\uploads\\images\\cf1a979a-a155-4bcf-9767-315944f1f506.webp",
+        "public\\uploads\\images\\fab7821f-9edb-4741-90e9-6dcfd7269a89.webp",
+        "public\\uploads\\images\\9b6ba481-7e40-433a-bbda-0423886cd6ef.webp",
+        "public\\uploads\\images\\6d53a436-9d80-4410-9b13-3348b5adebc9.webp",
+        "public\\uploads\\images\\5e4c1379-cfef-4a6d-a416-aeea1624f4da.webp",
+        "public\\uploads\\images\\f9a756d4-56d0-44e1-b0e6-900c0c2e4e32.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a3a27a86ed134c2161e02c"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T13:19:54.483Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T13:19:54.483Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b527f362a6e30edd7f3d4"
+    }
+  ],
+  "dimensions": {
+    "width": 19,
+    "height": 22,
+    "depth": 13
+  },
+  "weight": 31,
+  "material": "Glass, MDF, Veneer, Wood",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T13:19:54.483Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T13:19:54.483Z"
+  },
+  "slug": "moonrise-natural-ash-2-drawer-vanity-desk-with-mirror",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3a34c86ed134c2161e090"
+  },
+  "name": "Oodle Natural Ash 2-Drawer Desk",
+  "SKU": "D002",
+  "price": 234,
+  "discount": 20,
+  "description": "<h2><strong>Oodle Natural Ash 2-Drawer Desk</strong></h2><p>&nbsp;</p><p>Meet the Oodle collection, where whimsy meets elevated in a playful Memphis-style silhouette designed for versatility. Crafted from white ash and featuring soft-close hardware on all drawers, this collection effortlessly adds character to any space, whether it's a child's bedroom or a modern home office. Perfect for those seeking style and warmth in a monochromatic setting, the warm wood tones of the Oodle collection infuse every corner with charm and personality.</p><p>&nbsp;</p><h2><strong>Features</strong></h2><ul><li>Handmade by skilled furniture craftspeople</li><li>Stunning natural ash finish</li><li>Features two soft close drawers</li><li>Drawers measure 19.1\"W x 12.4\"D x 2.8\"H</li><li>Minimal assembly required</li></ul>",
+  "category": {
+    "$oid": "668dea65c0af5e150598b936"
+  },
+  "brand": {
+    "$oid": "667acf67b3b8465d5086412b"
+  },
+  "colors": [
+    {
+      "name": "Brown",
+      "thumb": "public\\uploads\\images\\9355a156-859a-4b83-bcba-628e25b09859.jpg",
+      "stock": 9,
+      "images": [
+        "public\\uploads\\images\\5511a3c5-ba86-45ee-be0f-40139604c7bb.webp",
+        "public\\uploads\\images\\c87544a5-c451-4ce1-afe4-7d52eb0a855d.webp",
+        "public\\uploads\\images\\0eb4d482-2864-4b4f-b2da-69533e9c52f0.webp",
+        "public\\uploads\\images\\eb7829d8-f123-45d4-bec3-e24b2b74c652.webp",
+        "public\\uploads\\images\\df3b71ba-5bf1-4a31-ab3f-fa810bf86e86.webp",
+        "public\\uploads\\images\\e9a244ac-d035-4573-bcc6-13278dd36a9a.webp",
+        "public\\uploads\\images\\d87e2641-e544-4d47-a466-cf8976b605a1.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a3a34c86ed134c2161e091"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T13:23:24.450Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T15:44:10.450Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b527f362a6e30edd7f3d4"
+    }
+  ],
+  "dimensions": {
+    "width": 48,
+    "height": 32,
+    "depth": 18
+  },
+  "weight": 66,
+  "material": "Ash Veneer, MDF, Wood",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T13:23:24.450Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T15:44:10.450Z"
+  },
+  "slug": "oodle-natural-ash-2-drawer-desk",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3a3da86ed134c2161e0f7"
+  },
+  "name": "Clara Glossy White Lacquer Desk",
+  "SKU": "D003",
+  "price": 300,
+  "discount": 20,
+  "description": "<h2><strong>Clara Glossy White Lacquer Desk</strong></h2><p>&nbsp;</p><p>The elegant and versatile Clara desk brings timeless style and ultimate functionality to your work space. This simplistic yet modern desk has a durable wooden frame and a beautiful glossy lacquer finish, it will perfectly complement any space!</p><p>&nbsp;</p><h2><strong>Features</strong></h2><ul><li>Handmade by skilled furniture atisans</li><li>MDF wood construction offers durability</li><li>Glossy white lacquer finish</li><li>Features two soft close drawers</li><li>Drawer dimensions: 18.4\"W x 13.8\"D x 2.4\"H</li></ul>",
+  "category": {
+    "$oid": "668dea65c0af5e150598b936"
+  },
+  "brand": {
+    "$oid": "667acf5eb3b8465d50864128"
+  },
+  "colors": [
+    {
+      "name": "White",
+      "thumb": "public\\uploads\\images\\e545840b-6e0a-4ebf-a408-7528674f585f.avif",
+      "stock": 0,
+      "images": [
+        "public\\uploads\\images\\22d528c3-15b9-4df1-b241-45080a55dd1d.webp",
+        "public\\uploads\\images\\efbe0cb4-7706-4dde-b426-4065cc3f1189.webp",
+        "public\\uploads\\images\\4954abed-f9c4-43c5-bf05-c39da9f6af83.webp",
+        "public\\uploads\\images\\abd19da0-5cba-4b59-9a87-614bea79d5c7.webp",
+        "public\\uploads\\images\\feeb0de3-5640-4395-884d-8c86f876191f.webp",
+        "public\\uploads\\images\\97c374bc-4fdb-4f58-84ed-44b8ce4ad724.webp",
+        "public\\uploads\\images\\dc48500b-11f6-4fb0-9daf-9bcd0e2e5c1d.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a3a3da86ed134c2161e0f8"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T13:25:46.327Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T13:25:46.327Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b527f362a6e30edd7f3d4"
+    }
+  ],
+  "dimensions": {
+    "width": 55,
+    "height": 30,
+    "depth": 23
+  },
+  "weight": 118,
+  "material": "MDF",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T13:25:46.327Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T13:25:46.327Z"
+  },
+  "slug": "clara-glossy-white-lacquer-desk",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3a52886ed134c2161e1a5"
+  },
+  "name": "Adalynn Black Vegan Leather Bench",
+  "SKU": "E001",
+  "price": 400,
+  "discount": 20,
+  "description": "<h2><strong>Adalynn Black Vegan Leather Bench</strong></h2><p>&nbsp;</p><p>The postmodern overstuffed look is here to stay! The Adalynn bench is a welcome new arrival featuring ultra plush cushions and a delightfully intentional off-centered detail. The black legs offer a sharp juxtaposing element to the fun frame. Available in white or black vegan leather.</p><p>&nbsp;</p><h2><strong>Features</strong></h2><ul><li>Handmade by skilled furniture atisans</li><li>Vegan leather upholstery available in two colors</li><li>Solid frame offers durability and support</li><li>Black conical legs</li><li>Fabric swatch available upon request</li><li>Minimal assembly required</li></ul>",
+  "category": {
+    "$oid": "668dea7ac0af5e150598b93c"
+  },
+  "brand": {
+    "$oid": "667acf67b3b8465d5086412b"
+  },
+  "colors": [
+    {
+      "name": "Black",
+      "thumb": "public\\uploads\\images\\246c41df-cd8a-48ab-b02a-30aed1e5e9bb.webp",
+      "stock": 99,
+      "images": [
+        "public\\uploads\\images\\28eed1cb-2dd8-40f1-9243-a1d74c986da3.webp",
+        "public\\uploads\\images\\6dddfef8-1481-4de6-adfd-3a43f9cf3244.webp",
+        "public\\uploads\\images\\ab54229a-b998-48d8-8d15-0f21198a96ba.webp",
+        "public\\uploads\\images\\916c4c5c-09aa-4226-bc64-e9472ae34ca2.webp",
+        "public\\uploads\\images\\40e85ae8-f0a6-4967-8979-afc9c0350a97.webp",
+        "public\\uploads\\images\\91badb79-cb88-4452-8a4e-c0aba899fcd0.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a3a52886ed134c2161e1a6"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T13:31:20.718Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T15:48:24.081Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b52ab362a6e30edd7f3e0"
+    }
+  ],
+  "dimensions": {
+    "width": 50,
+    "height": 15,
+    "depth": 17
+  },
+  "weight": 39,
+  "material": "Iron, Vegan Leather, Wood",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T13:31:20.718Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T15:48:24.081Z"
+  },
+  "slug": "adalynn-black-vegan-leather-bench",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3a5ce86ed134c2161e210"
+  },
+  "name": "Fern Beige Textured Faux Plaster Concrete Indoor / Outdoor 47\" Round Dining Table",
+  "SKU": "E002",
+  "price": 819,
+  "discount": 30,
+  "description": "<h2><strong>Fern Beige Textured Faux Plaster Concrete Indoor / Outdoor 47\" Round Dining Table</strong></h2><p>&nbsp;</p><p>Introducing our Fern Beige Textured Faux Plaster Concrete Round Dining Table- A midcentury marvel seamlessly blending cool vibes with functional design. The rounded and tapered edge adds a hint of retro charm, while the textured faux plaster top boasts natural shading. The center pedestal not only enhances its sleek silhouette but also invites friends and family to gather around in style.</p><p>&nbsp;</p><h2><strong>Features</strong></h2><ul><li>Handmade by skilled furniture artisans</li><li>Crafted with durable concrete and featuring a stunning beige faux-plaster finish</li><li>Perfect for indoor or outdoor use</li><li>Outdoor-safe; cover or store indoors during inclement weather or when not in use</li><li>Seats 4-6 people comfortably</li><li>Minimal assembly required</li></ul>",
+  "category": {
+    "$oid": "66a3a86186ed134c2161e534"
+  },
+  "brand": {
+    "$oid": "668b82521596cbb67319eb53"
+  },
+  "colors": [
+    {
+      "name": "Light Grey",
+      "thumb": "public\\uploads\\images\\4722e50a-6740-4a8a-966e-3b93f732867e.jpg",
+      "stock": 0,
+      "images": [
+        "public\\uploads\\images\\3c1b854d-00dd-4ed4-8930-729e45bd1275.webp",
+        "public\\uploads\\images\\da40f313-1c86-4bbe-b8a3-e9a13964278a.webp",
+        "public\\uploads\\images\\1fa13bf4-8760-4d6f-9d3e-f2084dbcf8f1.webp",
+        "public\\uploads\\images\\51b9538c-71c7-4e3c-97fc-68f2bb0a16a8.webp",
+        "public\\uploads\\images\\0e89c212-3dee-4801-bfb7-56a94362fdba.webp",
+        "public\\uploads\\images\\a74c8e68-55e0-4c32-8fe5-ee9a0d24df3c.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a3a5ce86ed134c2161e211"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T13:34:06.109Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T13:34:06.109Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b52ab362a6e30edd7f3e0"
+    }
+  ],
+  "dimensions": {
+    "width": 47,
+    "height": 47,
+    "depth": 47
+  },
+  "weight": 223,
+  "material": "Concrete",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T13:34:06.109Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T13:45:37.153Z"
+  },
+  "slug": "fern-beige-textured-faux-plaster-concrete-indoor-outdoor-47-round-dining-table",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3a6c586ed134c2161e27d"
+  },
+  "name": "Kaylee Cream Velvet Ottoman",
+  "SKU": "D004",
+  "price": 319,
+  "discount": 29,
+  "description": "<h2><strong>Kaylee Cream Velvet Ottoman</strong></h2><p>&nbsp;</p><p>The supremely soft velvet and endlessly deep tufting of our Kaylee jumbo ottoman will take center stage in any room. The deep button tufts and solid wood frame present style and comfort that everyone will enjoy. Available in a wide variety of velvet color options.</p><p>&nbsp;</p><h2><strong>Features</strong></h2><ul><li>49\" wide ottoman</li><li>Handmade by skilled furniture craftsmen</li><li>Button tufting on all sides</li><li>Soft velvet upholstery</li><li>Solid kiln dried wood frame</li><li>Ships assembled</li><li>Fabric swatch available.</li></ul>",
+  "category": {
+    "$oid": "668dea7ac0af5e150598b93c"
+  },
+  "brand": {
+    "$oid": "667acf5eb3b8465d50864128"
+  },
+  "colors": [
+    {
+      "name": "White",
+      "thumb": "public/uploads/images/6e0ccf5c-968a-47e0-ad17-0a4c50e3ba6a.avif",
+      "stock": 0,
+      "images": [
+        "public/uploads/images/403638aa-ec77-4b5c-8056-7f7ef96424c0.webp",
+        "public/uploads/images/5fe49a2e-e361-4fb1-a7dc-aa75939ea4a5.webp",
+        "public/uploads/images/6823903e-caa1-4def-89c0-5a9baded6aad.webp",
+        "public/uploads/images/d925b4c4-2d4e-4c5c-b56d-33ec059dc0b9.webp",
+        "public/uploads/images/35ae8233-dcfc-4c0a-9259-2f0a4383c14f.webp",
+        "public/uploads/images/db12c065-1d34-4c05-b656-c0ec008dacb1.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a3a6c586ed134c2161e27e"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T13:38:13.046Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T13:38:13.046Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b52ab362a6e30edd7f3e0"
+    }
+  ],
+  "dimensions": {
+    "width": 49,
+    "height": 15,
+    "depth": 21
+  },
+  "weight": 33,
+  "material": "Velvet, Wood",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T13:38:13.046Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T13:41:20.373Z"
+  },
+  "slug": "kaylee-cream-velvet-ottoman",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66a3c26bf715c26a23d1b7fb"
+  },
+  "name": "Jayla Natural Rattan Bench",
+  "SKU": "OD001",
+  "price": 739,
+  "discount": 30,
+  "description": "<h2><strong>Jayla Natural Rattan Bench</strong></h2><p>&nbsp;</p><p>The Jayla Natural Rattan Bench is a stunning addition to any space, meticulously hand-wrapped in natural rattan. Its water-repellent and stain-resistant fabric ensures durability and easy maintenance, while the Palm Springs-inspired design infuses a beachy vibe. Perfect for both covered outdoor areas and indoor settings, this versatile bench brings elegance and relaxation to your home.</p><p>&nbsp;</p><h2><strong>Features</strong></h2><ul><li>Handmade by skilled furniture craftsmen</li><li>Natural rattan finish</li><li>Perfect for indoors or covered outdoor spaces</li><li>Free fabric swatch available upon request</li><li>Ships fully assembled</li></ul>",
+  "category": {
+    "$oid": "668dea9ec0af5e150598b948"
+  },
+  "brand": {
+    "$oid": "668b82581596cbb67319eb56"
+  },
+  "colors": [
+    {
+      "name": "Cream",
+      "thumb": "public\\uploads\\images\\203f33fb-f1dd-4bf1-95e1-212a1708af89.avif",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\c9347146-f8af-4d3a-b058-5842fc257679.webp",
+        "public\\uploads\\images\\bccceff6-9e9c-4f3b-80af-4fa263e6b672.webp",
+        "public\\uploads\\images\\7ff85d05-6573-46d9-bd8e-f21a171efa10.webp",
+        "public\\uploads\\images\\8c95556f-ce2b-48b6-8d99-0fc89ab476a0.webp",
+        "public\\uploads\\images\\5a42b7a9-9706-49ff-a3bc-9af1e623ffd8.webp",
+        "public\\uploads\\images\\630237ad-0212-486d-883d-da3ce0e4f314.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a3c26bf715c26a23d1b7fc"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T15:36:11.369Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T15:36:11.369Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b529d362a6e30edd7f3da"
+    }
+  ],
+  "dimensions": {
+    "width": 53,
+    "height": 24,
+    "depth": 23
+  },
+  "weight": 113,
+  "material": "Fabric, Rattan",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T15:36:11.370Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T15:36:11.370Z"
+  },
+  "slug": "jayla-natural-rattan-bench",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3c38ff715c26a23d1b8c4"
+  },
+  "name": "Taurus Ceramic Stool In Garden Print",
+  "SKU": "OD002",
+  "price": 125,
+  "discount": 30,
+  "description": "<h3>Taurus Ceramic Stool In Garden Print</h3><p>Introducing the versatile Taurus Ceramic Stools, available in three eye-catching prints: Garden, Pink Strokes, and Modern Stripes. These multifunctional pieces serve as stylish side tables and can easily be pulled over as additional seating. Their vivid colors and durable construction provide a delightful punch of style that can brighten up any corner, whether indoors or in covered outdoor settings.</p><h3>Features</h3><ul><li>Handmade by skilled furniture artisans</li><li>Can be used as a stool or side table</li><li>Perfect for indoors or covered outdoor spaces</li><li>Available in several stunning finishes</li><li>Ships fully assembled</li></ul>",
+  "category": {
+    "$oid": "668deaa7c0af5e150598b94c"
+  },
+  "brand": {
+    "$oid": "667acf67b3b8465d5086412b"
+  },
+  "colors": [
+    {
+      "name": "Green Blue",
+      "thumb": "public\\uploads\\images\\6252dc47-211f-4a43-bb51-68190393e83d.jpg",
+      "stock": 99,
+      "images": [
+        "public\\uploads\\images\\92e71d23-9c08-45db-bccf-cd7ae15ec664.webp",
+        "public\\uploads\\images\\b35463e3-e5bd-40ed-95df-2116a71e0caf.webp",
+        "public\\uploads\\images\\f8df853c-35f7-498c-8fce-3e375e2f1f15.webp",
+        "public\\uploads\\images\\ce057560-cda7-44c7-a021-61fa3c917f20.webp",
+        "public\\uploads\\images\\32ab37ac-0ffe-453a-adc2-f7fbd4e91e1b.webp",
+        "public\\uploads\\images\\c02ca4bc-4668-46ef-9bc2-bcf743ce4d0d.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a3c38ff715c26a23d1b8c5"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T15:41:03.318Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T15:42:46.734Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b529d362a6e30edd7f3da"
+    },
+    {
+      "$oid": "668b52a2362a6e30edd7f3dd"
+    }
+  ],
+  "dimensions": {
+    "width": 13,
+    "height": 13,
+    "depth": 13
+  },
+  "weight": 17,
+  "material": "Ceramic",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T15:41:03.319Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T15:42:46.734Z"
+  },
+  "slug": "taurus-ceramic-stool-in-garden-print",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3c6d8f715c26a23d1c5fa"
+  },
+  "name": "Flor Handpainted Mirror",
+  "SKU": "M001",
+  "price": 199,
+  "discount": 20,
+  "description": "<h2><strong>Flor Handpainted Mirror</strong></h2><p>&nbsp;</p><p>Floral inspiration and masterful handcraftsmanship combine beautifully to create the Flor mirror. Its oval shape and intricately detailed frame will be the focal point of your wall and add a burst of personality to your space.</p><p>&nbsp;</p><h2><strong>Features</strong></h2><ul><li>Handmade by skilled furniture craftsmen</li><li>Oval shape</li><li>Mirror dimensions: 18.8\"W x 30\"H</li><li>Includes heavy duty hanger for wall-mounting</li></ul>",
+  "category": {
+    "$oid": "668deac9c0af5e150598b954"
+  },
+  "brand": {
+    "$oid": "667acf67b3b8465d5086412b"
+  },
+  "colors": [
+    {
+      "name": "White",
+      "thumb": "public\\uploads\\images\\04d76616-d22d-4451-b834-1457c8ef1e80.crdownload",
+      "stock": 98,
+      "images": [
+        "public\\uploads\\images\\327e5b41-7e81-45a9-bc9e-209ba215d428.webp",
+        "public\\uploads\\images\\85f85178-9952-4d3a-913c-0ba5da108bd5.webp",
+        "public\\uploads\\images\\81643ee2-e7ee-4d58-8b50-64036d6e5481.webp",
+        "public\\uploads\\images\\a56abe4c-5870-4558-8562-2db6cb3f57b5.webp",
+        "public\\uploads\\images\\676e6b70-5c8a-45e5-b87d-bab788f978f2.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a3c6d8f715c26a23d1c5fb"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T15:55:04.908Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T16:05:40.640Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b52ab362a6e30edd7f3e0"
+    },
+    {
+      "$oid": "668b52d5362a6e30edd7f3ec"
+    }
+  ],
+  "dimensions": {
+    "width": 20,
+    "height": 36,
+    "depth": 1
+  },
+  "weight": 5,
+  "material": "Iron",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T15:55:04.908Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T16:05:40.640Z"
+  },
+  "slug": "flor-handpainted-mirror",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3c798f715c26a23d1c674"
+  },
+  "name": "Lyrical 27 Inch Mirror",
+  "SKU": "M002",
+  "price": 179,
+  "discount": 20,
+  "description": "<h2><strong>Lyrical 27 Inch Mirror</strong></h2><p>&nbsp;</p><p>Framed by handcrafted fan-shaped leaves, this whimsical mirror is more than just an accent piece. Each gold leaf is hand hammered and designed and comes together to create a truly unique piece. Available in two sizes.</p><p>&nbsp;</p><h2><strong>Features</strong></h2><ul><li>Handmade by master craftsmen</li><li>Hand hammered frame means each mirror is truly unique</li><li>No assembly required</li><li>Crafted in India</li></ul>",
+  "category": {
+    "$oid": "668deac9c0af5e150598b954"
+  },
+  "brand": {
+    "$oid": "668b82521596cbb67319eb53"
+  },
+  "colors": [
+    {
+      "name": "Yellow",
+      "thumb": "public\\uploads\\images\\dca8d103-958c-4226-bf53-aff833482c1c.jpg",
+      "stock": 99,
+      "images": [
+        "public\\uploads\\images\\0fe419ec-5234-4627-bea7-8f13f3adf352.webp",
+        "public\\uploads\\images\\5c2038db-71e6-4eb8-a623-c412e6ec5fa1.webp",
+        "public\\uploads\\images\\2016c1e9-f3da-4f1b-bbaa-5181ecf18fa6.webp",
+        "public\\uploads\\images\\9d92b5a4-1bc8-46d4-8b13-649b0c66cecf.webp",
+        "public\\uploads\\images\\9f7c8381-6496-4ef4-92f3-b1e49dc4dd45.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a3c798f715c26a23d1c675"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T15:58:16.009Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T15:58:46.492Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b52d5362a6e30edd7f3ec"
+    },
+    {
+      "$oid": "668b52ab362a6e30edd7f3e0"
+    }
+  ],
+  "dimensions": {
+    "width": 27,
+    "height": 27,
+    "depth": 1
+  },
+  "weight": 7,
+  "material": "Glass, Iron, MDF",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T15:58:16.009Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T15:58:46.492Z"
+  },
+  "slug": "lyrical-27-inch-mirror",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3c91ef715c26a23d1cb6c"
+  },
+  "name": "Phoebe LED Wall Mirror",
+  "SKU": "M003",
+  "price": 150,
+  "discount": 20,
+  "description": "<h2><strong>Phoebe LED Wall Mirror</strong></h2><p>&nbsp;</p><p>Prepare for the fabulous LED Phoebe Mirror Collection! These mirrors are made for easy installation with their battery-powered setup, no hardwiring needed. They're all about versatility, offering multiple hanging orientations and cool options like tinted or regular glass in chic teardrop or irregular oval shapes. Plus, they emit an aesthetic glow with their built-in LED lights. Revamp your space with these trendy, functional, and stylish mirrors that will totally elevate your vibe.</p><p>&nbsp;</p><h2><strong>Features</strong></h2><ul><li>Handmade by skilled craftsmen</li><li>Can be hung vertically or horizontally</li><li>Requires 4 AA batteries - Not included</li></ul>",
+  "category": {
+    "$oid": "668deac9c0af5e150598b954"
+  },
+  "brand": {
+    "$oid": "668b82581596cbb67319eb56"
+  },
+  "colors": [
+    {
+      "name": "White",
+      "thumb": "public\\uploads\\images\\196abdf5-a8ea-4eac-8d6a-5c8e1633d366.crdownload",
+      "stock": 100,
+      "images": [
+        "public\\uploads\\images\\ee02e76c-0461-405f-be82-1e1c6e2110bc.webp",
+        "public\\uploads\\images\\9b9cceb5-ba12-42b7-b61d-6e54d1fe8d84.webp",
+        "public\\uploads\\images\\95612ee1-1c38-467f-966e-3cd1d009127a.webp",
+        "public\\uploads\\images\\90bd8bef-b8f6-4649-b262-98933b1117a4.webp",
+        "public\\uploads\\images\\ffcd78b4-8835-4b96-be58-4dc36d76adc8.webp",
+        "public\\uploads\\images\\46c1bd63-efc7-4d23-96de-caad1d70d12e.webp",
+        "public\\uploads\\images\\a1ca51e3-43f6-499b-bfae-399508a768fb.webp"
+      ],
+      "model3D": "",
+      "_id": {
+        "$oid": "66a3c91ef715c26a23d1cb6d"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T16:04:46.044Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T16:04:46.044Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b52d5362a6e30edd7f3ec"
+    },
+    {
+      "$oid": "668b52ab362a6e30edd7f3e0"
+    }
+  ],
+  "dimensions": {
+    "width": 26,
+    "height": 26,
+    "depth": 1
+  },
+  "weight": 7,
+  "material": "Glass, PVC",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T16:04:46.044Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T16:04:46.044Z"
+  },
+  "slug": "phoebe-led-wall-mirror",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3d356f715c26a23d1d1f7"
+  },
+  "name": "Truman 93\" Acacia Color And Glass Door Credenza",
+  "SKU": "CD001",
+  "price": 1500,
+  "discount": 30,
+  "description": "<h2><span style=\"background-color:rgb(255,255,255);color:rgb(34,34,34);\"><strong>Truman 93\" Acacia Color And Glass Door Credenza</strong></span></h2><p>&nbsp;</p><p>Glass door credenza by Barcelona-based Mermelada Estudio is built on a bold scale. The spare silhouette, rendered in lightly wirebrushed acacia wood veneers, reveals an elegant juxtaposition of clean lines and gently rounded corners. Display dinnerware and linens behind the six clear glass push-to-open doors for elevated storage that adds a natural touch to modern interiors. CB2 exclusive.<br><br>&nbsp;</p><h2><strong>Truman 93\" Acacia Color and Glass Door Credenza 93\"Wx20\"Dx34\"H</strong></h2><ul><li><p style=\"margin-left:20px;\">Designed by Mermelada Estudio</p></li><li><p style=\"margin-left:20px;\">Wirebrushed acacia veneers with warm brown stain</p></li><li><p style=\"margin-left:20px;\">Six tempered glass push-to-open doors</p></li><li><p style=\"margin-left:20px;\">Adjustable shelves</p></li><li><p style=\"margin-left:20px;\">Characteristics of wood include variation in tone, natural knots and markings</p></li><li><p style=\"margin-left:20px;\">Made in Indonesia</p></li></ul>",
+  "category": {
+    "$oid": "668de9c5c0af5e150598b902"
+  },
+  "brand": {
+    "$oid": "668b82521596cbb67319eb53"
+  },
+  "colors": [
+    {
+      "name": "Brown",
+      "thumb": "public/uploads/images/c93c2624-9ee2-42c3-92ee-dc5370681b4e.jpg",
+      "stock": 100,
+      "images": [
+        "public/uploads/images/958619c0-8230-4d0c-a2c3-7d7464103d2a.jpg",
+        "public/uploads/images/18567849-dd77-40c2-b78b-77140cbb3b2a.jpg",
+        "public/uploads/images/1ac1f099-49d8-4455-b903-e48bdbbb1a17.jpg",
+        "public/uploads/images/a7b675ed-b290-4abf-9d20-bbde48decc40.jpg",
+        "public/uploads/images/0147bd2b-7d20-46c0-bbf0-b0ba7876a0ae.jpg",
+        "public/uploads/images/c4cb50b7-350f-4933-892d-215539c81172.jpg",
+        "public/uploads/images/5207a48b-6de4-40b8-8297-bb4c5be74805.jpg",
+        "public/uploads/images/0422dd95-601d-43e4-b36b-1f89eeeea4d1.jpg"
+      ],
+      "model3D": "public/uploads/models/3bb059ab-16d0-4f9a-927a-ae5046bf4cfe.glb",
+      "_id": {
+        "$oid": "66a3d356f715c26a23d1d1f8"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T16:48:22.811Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T16:48:22.811Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b523f362a6e30edd7f3bc"
+    }
+  ],
+  "dimensions": {
+    "width": 93,
+    "height": 20,
+    "depth": 24
+  },
+  "weight": 50,
+  "material": "Wood",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T16:48:22.811Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T16:48:35.405Z"
+  },
+  "slug": "truman-93-acacia-color-and-glass-door-credenza",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66a3d4ddf715c26a23d1d36c"
+  },
+  "name": "Oberlin 4-Drawer Black Leather And Wood Dresser",
+  "SKU": "CD002",
+  "price": 1000,
+  "discount": 20,
+  "description": "<h2><span style=\"background-color:rgb(255,255,255);color:rgb(34,34,34);\"><strong>Oberlin 4-Drawer Black Leather And Wood Dresser</strong></span></h2><p>&nbsp;</p><p>Minimal wood dresser frame holds four deep drawers fronted with beautiful black faux leather. Slim black wood handles with brass detail stretch nearly the length of the drawers. Inset cylinder-like legs clad in brass create a clean, elegant line. Learn about VUUE on our blog. CB2 exclusive.<br>&nbsp;</p><h2><strong>Oberlin 4-Drawer Black Leather and Wood Dresser 62\"Wx20\"Dx29\"H</strong></h2><ul><li><p style=\"margin-left:20px;\">Designed by VUUE</p></li><li><p style=\"margin-left:20px;\">Engineered/acacia wood frame and legs</p></li><li><p style=\"margin-left:20px;\">Poplar drawers and handles</p></li><li><p style=\"margin-left:20px;\">Brass details</p></li><li><p style=\"margin-left:20px;\">Wipe spills immediately; clean with a soft, dry cloth</p></li><li><p style=\"margin-left:20px;\">Made in Vietnam</p></li><li><p style=\"margin-left:20px;\">Made in Vietnam</p></li></ul>",
+  "category": {
+    "$oid": "668de9c5c0af5e150598b902"
+  },
+  "brand": {
+    "$oid": "668b82581596cbb67319eb56"
+  },
+  "colors": [
+    {
+      "name": "Black",
+      "thumb": "public/uploads/images/cd655815-3372-4f40-b1fa-28cba030e587.jpg",
+      "stock": 100,
+      "images": [
+        "public/uploads/images/a31e4095-536d-4263-84a9-7f6a424d13a1.jpg",
+        "public/uploads/images/b395f736-aa7a-4a37-a256-d65440b6034c.jpg",
+        "public/uploads/images/71de32c0-225b-429b-927e-dfd5e3dede72.jpg",
+        "public/uploads/images/234e3c65-cf0e-47a7-b04a-37ccaea4637e.jpg",
+        "public/uploads/images/de5ffefa-c82f-43b0-a580-77fb4f3425ee.jpg",
+        "public/uploads/images/4a286960-5296-4cdb-b8f2-c7bfc7da2890.jpg",
+        "public/uploads/images/dae87dc9-680d-4b88-b208-5e5ed5d71e1f.jpg",
+        "public/uploads/images/10a7178f-af66-4b2f-b1e5-274f67246946.jpeg",
+        "public/uploads/images/9501ab79-6109-4a46-a894-be0c9556aee8.jpeg",
+        "public/uploads/images/0c8f6a1a-b99c-48d1-9972-faea5a4a3894.jpg"
+      ],
+      "model3D": "public/uploads/models/3a15c481-57e4-436c-8aa6-5de85cef7c83.glb",
+      "_id": {
+        "$oid": "66a3d4ddf715c26a23d1d36d"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T16:54:53.429Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T16:54:53.429Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b523f362a6e30edd7f3bc"
+    }
+  ],
+  "dimensions": {
+    "width": 62,
+    "height": 29,
+    "depth": 20
+  },
+  "weight": 70,
+  "material": "Wood",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T16:54:53.429Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T16:58:15.407Z"
+  },
+  "slug": "oberlin-4-drawer-black-leather-and-wood-dresser",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66a3d635f715c26a23d1d508"
+  },
+  "name": "Cairo 72\" Warm White High-Gloss Lacquered Credenza",
+  "SKU": "CD003",
+  "price": 1600,
+  "discount": 30,
+  "description": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(34,34,34);\"><strong>Cairo 72\" Warm White High-Gloss Lacquered Credenza</strong></span></p><p>&nbsp;</p><p>Designed by Melbourne-based VUUE, this statement piece is an understatement. Rounded, chunky brass-finished legs intersect four doors clad in lacquered linen and sleek brass pulls. The credenza opens to two large shelves with a middle divide and cord cutouts. Designed for an entry, dining or living room moment. CB2 exclusive.<br>&nbsp;</p><p><strong>Dorset 81\" White Lacquered Linen Credenza 81\"Wx19.75\"Dx32\"H</strong></p><ul><li><p style=\"margin-left:20px;\">Designed by VUUE</p></li><li><p style=\"margin-left:20px;\">Solid poplar and engineered wood with lacquered linen</p></li><li><p style=\"margin-left:20px;\">Metal legs with brass finish</p></li><li><p style=\"margin-left:20px;\">Brass hardware</p></li><li><p style=\"margin-left:20px;\">Four doors open to two large shelves with middle divide</p></li><li><p style=\"margin-left:20px;\">Cutouts for cord management</p></li><li><p style=\"margin-left:20px;\">Made in Vietnam</p></li></ul>",
+  "category": {
+    "$oid": "668de9c5c0af5e150598b902"
+  },
+  "brand": {
+    "$oid": "668b824b1596cbb67319eb50"
+  },
+  "colors": [
+    {
+      "name": "White",
+      "thumb": "public/uploads/images/9833a24f-0c77-4fea-8837-07026721bb56.webp",
+      "stock": 100,
+      "images": [
+        "public/uploads/images/4843de8d-98f8-44dc-80e1-04d313836b15.jpg",
+        "public/uploads/images/dcd9d15c-75e3-44a1-9a0f-df8f2cb70c34.jpg",
+        "public/uploads/images/a944f85e-ae24-4ec2-abf9-8910f3b81bed.jpg",
+        "public/uploads/images/877a032e-5f2a-4e06-b561-0d95ae4e711f.jpg",
+        "public/uploads/images/dc6fc6f6-015c-4f1a-8e43-2d8009de9bf8.jpg",
+        "public/uploads/images/d85de680-a795-4808-9df6-fe214bbf721d.jpg",
+        "public/uploads/images/b56e1fb1-2f64-4aa3-828d-179c8dadbab1.jpg",
+        "public/uploads/images/708c522e-da41-4ed4-83de-b18dab6f3ba5.jpg"
+      ],
+      "model3D": "public/uploads/models/493d4d34-8c9a-493e-b7f5-a6518251a579.glb",
+      "_id": {
+        "$oid": "66a3d635f715c26a23d1d509"
+      },
+      "createdAt": {
+        "$date": "2024-07-26T17:00:37.582Z"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T17:00:37.582Z"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "668b523f362a6e30edd7f3bc"
+    }
+  ],
+  "dimensions": {
+    "width": 72,
+    "height": 29,
+    "depth": 19
+  },
+  "weight": 70,
+  "material": "Wood",
+  "active": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-07-26T17:00:37.582Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T17:00:47.415Z"
+  },
+  "slug": "cairo-72-warm-white-high-gloss-lacquered-credenza",
+  "__v": 1
 }]

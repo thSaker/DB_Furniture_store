@@ -65,10 +65,10 @@
   "shippingFee": 10,
   "subTotal": 592,
   "createdAt": {
-    "$date": "2024-07-23T08:27:49.923Z"
+    "$date": "2024-07-16T08:27:49.923Z"
   },
   "updatedAt": {
-    "$date": "2024-07-23T08:28:16.814Z"
+    "$date": "2024-07-16T08:28:16.814Z"
   },
   "__v": 0
 },
@@ -210,7 +210,7 @@
     "$date": "2024-07-23T08:31:26.957Z"
   },
   "updatedAt": {
-    "$date": "2024-07-25T06:50:30.227Z"
+    "$date": "2024-07-23T06:50:30.227Z"
   },
   "__v": 0
 },
@@ -252,7 +252,7 @@
   "totalAmount": 1556,
   "paymentMethod": "cod",
   "paymentStatus": "paid",
-  "orderStatus": "shipping",
+  "orderStatus": "cancelled",
   "shippingAddress": {
     "firstName": "Phan Thanh",
     "lastName": "Duy",
@@ -294,7 +294,7 @@
     "$date": "2024-06-25T06:49:34.866Z"
   },
   "updatedAt": {
-    "$date": "2024-06-25T06:50:33.260Z"
+    "$date": "2024-07-26T15:49:07.251Z"
   },
   "__v": 0
 },
@@ -433,7 +433,7 @@
   "shippingFee": 10,
   "subTotal": 1120,
   "createdAt": {
-    "$date": "2024-07-25T06:52:04.345Z"
+    "$date": "2024-07-18T06:52:04.345Z"
   },
   "updatedAt": {
     "$date": "2024-07-25T06:52:19.486Z"
@@ -465,7 +465,7 @@
   "totalAmount": 434,
   "paymentMethod": "cod",
   "paymentStatus": "paid",
-  "orderStatus": "pending",
+  "orderStatus": "processing",
   "shippingAddress": {
     "firstName": "Phan Thanh",
     "lastName": "Duy",
@@ -504,10 +504,10 @@
   "shippingFee": 10,
   "subTotal": 424,
   "createdAt": {
-    "$date": "2024-07-26T08:44:46.653Z"
+    "$date": "2024-07-19T08:44:46.653Z"
   },
   "updatedAt": {
-    "$date": "2024-07-26T09:23:22.626Z"
+    "$date": "2024-07-26T15:48:51.603Z"
   },
   "__v": 0
 },
@@ -536,7 +536,7 @@
   "totalAmount": 562,
   "paymentMethod": "paypal",
   "paymentStatus": "paid",
-  "orderStatus": "pending",
+  "orderStatus": "delivered",
   "shippingAddress": {
     "firstName": "Phan Thanh",
     "lastName": "Duy",
@@ -575,10 +575,10 @@
   "shippingFee": 10,
   "subTotal": 10,
   "createdAt": {
-    "$date": "2024-07-26T08:45:30.829Z"
+    "$date": "2024-07-20T08:45:30.829Z"
   },
   "updatedAt": {
-    "$date": "2024-07-26T08:45:30.829Z"
+    "$date": "2024-07-20T15:48:56.452Z"
   },
   "__v": 0
 },
@@ -607,7 +607,7 @@
   "totalAmount": 1130,
   "paymentMethod": "vnpay",
   "paymentStatus": "paid",
-  "orderStatus": "pending",
+  "orderStatus": "processing",
   "shippingAddress": {
     "firstName": "Phan Thanh",
     "lastName": "Duy",
@@ -646,10 +646,10 @@
   "shippingFee": 10,
   "subTotal": 1120,
   "createdAt": {
-    "$date": "2024-07-26T08:46:31.226Z"
+    "$date": "2024-07-19T08:46:31.226Z"
   },
   "updatedAt": {
-    "$date": "2024-07-26T08:46:31.226Z"
+    "$date": "2024-07-19T15:49:01.224Z"
   },
   "__v": 0
 },
@@ -720,7 +720,7 @@
   "shippingFee": 10,
   "subTotal": 840,
   "createdAt": {
-    "$date": "2024-07-26T09:21:03.912Z"
+    "$date": "2024-07-23T09:21:03.912Z"
   },
   "updatedAt": {
     "$date": "2024-07-26T09:21:40.704Z"
@@ -791,10 +791,10 @@
   "shippingFee": 10,
   "subTotal": 496,
   "createdAt": {
-    "$date": "2024-07-26T09:37:38.190Z"
+    "$date": "2024-07-20T09:37:38.190Z"
   },
   "updatedAt": {
-    "$date": "2024-07-26T09:38:57.536Z"
+    "$date": "2024-07-20T09:38:57.536Z"
   },
   "__v": 0
 },
@@ -963,6 +963,387 @@
   },
   "updatedAt": {
     "$date": "2024-07-26T09:41:25.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3c3f6f715c26a23d1bb53"
+  },
+  "user": {
+    "$oid": "669f5931be83a04d9966037e"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "66a3c38ff715c26a23d1b8c4"
+      },
+      "color": {
+        "$oid": "66a3c38ff715c26a23d1b8c5"
+      },
+      "quantity": 1,
+      "itemPrice": 88,
+      "_id": {
+        "$oid": "66a3c3f6f715c26a23d1bb54"
+      }
+    },
+    {
+      "product": {
+        "$oid": "66a39f8686ed134c2161deab"
+      },
+      "color": {
+        "$oid": "66a39f8686ed134c2161deac"
+      },
+      "quantity": 1,
+      "itemPrice": 527,
+      "_id": {
+        "$oid": "66a3c3f6f715c26a23d1bb55"
+      }
+    }
+  ],
+  "totalAmount": 625,
+  "paymentMethod": "cod",
+  "paymentStatus": "paid",
+  "orderStatus": "completed",
+  "shippingAddress": {
+    "firstName": "Phan Thanh",
+    "lastName": "Duy",
+    "email": "phanthanhduy2610@gmail.com",
+    "phoneNumber": "0344134844",
+    "city": {
+      "id": "06",
+      "name": "Bắc Kạn",
+      "name_en": "Bac Kan",
+      "full_name": "Tỉnh Bắc Kạn",
+      "full_name_en": "Bac Kan Province",
+      "latitude": "22.2571701",
+      "longitude": "105.8204437"
+    },
+    "district": {
+      "id": "063",
+      "name": "Bạch Thông",
+      "name_en": "Bach Thong",
+      "full_name": "Huyện Bạch Thông",
+      "full_name_en": "Bach Thong District",
+      "latitude": "22.20210065",
+      "longitude": "105.9357949031498"
+    },
+    "ward": {
+      "id": "02014",
+      "name": "Dương Phong",
+      "name_en": "Duong Phong",
+      "full_name": "Xã Dương Phong",
+      "full_name_en": "Duong Phong Commune",
+      "latitude": "",
+      "longitude": ""
+    },
+    "addressLine": "Bắc Kạn, Đắc Nông"
+  },
+  "discount": 0,
+  "shippingFee": 10,
+  "subTotal": 615,
+  "createdAt": {
+    "$date": "2024-07-26T15:42:46.744Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T15:43:10.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3c44af715c26a23d1bee5"
+  },
+  "user": {
+    "$oid": "669f5931be83a04d9966037e"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "66a3a34c86ed134c2161e090"
+      },
+      "color": {
+        "$oid": "66a3a34c86ed134c2161e091"
+      },
+      "quantity": 1,
+      "itemPrice": 188,
+      "_id": {
+        "$oid": "66a3c44af715c26a23d1bee6"
+      }
+    }
+  ],
+  "totalAmount": 198,
+  "paymentMethod": "cod",
+  "paymentStatus": "paid",
+  "orderStatus": "completed",
+  "shippingAddress": {
+    "firstName": "Phan Thanh",
+    "lastName": "Duy",
+    "email": "phanthanhduy2610@gmail.com",
+    "phoneNumber": "0344134844",
+    "city": {
+      "id": "06",
+      "name": "Bắc Kạn",
+      "name_en": "Bac Kan",
+      "full_name": "Tỉnh Bắc Kạn",
+      "full_name_en": "Bac Kan Province",
+      "latitude": "22.2571701",
+      "longitude": "105.8204437"
+    },
+    "district": {
+      "id": "063",
+      "name": "Bạch Thông",
+      "name_en": "Bach Thong",
+      "full_name": "Huyện Bạch Thông",
+      "full_name_en": "Bach Thong District",
+      "latitude": "22.20210065",
+      "longitude": "105.9357949031498"
+    },
+    "ward": {
+      "id": "02014",
+      "name": "Dương Phong",
+      "name_en": "Duong Phong",
+      "full_name": "Xã Dương Phong",
+      "full_name_en": "Duong Phong Commune",
+      "latitude": "",
+      "longitude": ""
+    },
+    "addressLine": "Bắc Kạn, Đắc Nông"
+  },
+  "discount": 0,
+  "shippingFee": 10,
+  "subTotal": 188,
+  "createdAt": {
+    "$date": "2024-07-26T15:44:10.455Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T15:44:22.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3c548f715c26a23d1c156"
+  },
+  "user": {
+    "$oid": "669f5931be83a04d9966037e"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "66a3a52886ed134c2161e1a5"
+      },
+      "color": {
+        "$oid": "66a3a52886ed134c2161e1a6"
+      },
+      "quantity": 1,
+      "itemPrice": 320,
+      "_id": {
+        "$oid": "66a3c548f715c26a23d1c157"
+      }
+    }
+  ],
+  "totalAmount": 330,
+  "paymentMethod": "cod",
+  "paymentStatus": "paid",
+  "orderStatus": "completed",
+  "shippingAddress": {
+    "firstName": "Phan Thanh",
+    "lastName": "Duy",
+    "email": "phanthanhduy2610@gmail.com",
+    "phoneNumber": "0344134844",
+    "city": {
+      "id": "06",
+      "name": "Bắc Kạn",
+      "name_en": "Bac Kan",
+      "full_name": "Tỉnh Bắc Kạn",
+      "full_name_en": "Bac Kan Province",
+      "latitude": "22.2571701",
+      "longitude": "105.8204437"
+    },
+    "district": {
+      "id": "063",
+      "name": "Bạch Thông",
+      "name_en": "Bach Thong",
+      "full_name": "Huyện Bạch Thông",
+      "full_name_en": "Bach Thong District",
+      "latitude": "22.20210065",
+      "longitude": "105.9357949031498"
+    },
+    "ward": {
+      "id": "02014",
+      "name": "Dương Phong",
+      "name_en": "Duong Phong",
+      "full_name": "Xã Dương Phong",
+      "full_name_en": "Duong Phong Commune",
+      "latitude": "",
+      "longitude": ""
+    },
+    "addressLine": "Bắc Kạn, Đắc Nông"
+  },
+  "discount": 0,
+  "shippingFee": 10,
+  "subTotal": 320,
+  "createdAt": {
+    "$date": "2024-07-26T15:48:24.087Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T15:48:36.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3c7b6f715c26a23d1c7c3"
+  },
+  "user": {
+    "$oid": "669f5931be83a04d9966037e"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "66a3c798f715c26a23d1c674"
+      },
+      "color": {
+        "$oid": "66a3c798f715c26a23d1c675"
+      },
+      "quantity": 1,
+      "itemPrice": 144,
+      "_id": {
+        "$oid": "66a3c7b6f715c26a23d1c7c4"
+      }
+    },
+    {
+      "product": {
+        "$oid": "66a3c6d8f715c26a23d1c5fa"
+      },
+      "color": {
+        "$oid": "66a3c6d8f715c26a23d1c5fb"
+      },
+      "quantity": 1,
+      "itemPrice": 160,
+      "_id": {
+        "$oid": "66a3c7b6f715c26a23d1c7c5"
+      }
+    }
+  ],
+  "totalAmount": 314,
+  "paymentMethod": "cod",
+  "paymentStatus": "paid",
+  "orderStatus": "completed",
+  "shippingAddress": {
+    "firstName": "Phan Thanh",
+    "lastName": "Duy",
+    "email": "phanthanhduy2610@gmail.com",
+    "phoneNumber": "0344134844",
+    "city": {
+      "id": "06",
+      "name": "Bắc Kạn",
+      "name_en": "Bac Kan",
+      "full_name": "Tỉnh Bắc Kạn",
+      "full_name_en": "Bac Kan Province",
+      "latitude": "22.2571701",
+      "longitude": "105.8204437"
+    },
+    "district": {
+      "id": "063",
+      "name": "Bạch Thông",
+      "name_en": "Bach Thong",
+      "full_name": "Huyện Bạch Thông",
+      "full_name_en": "Bach Thong District",
+      "latitude": "22.20210065",
+      "longitude": "105.9357949031498"
+    },
+    "ward": {
+      "id": "02014",
+      "name": "Dương Phong",
+      "name_en": "Duong Phong",
+      "full_name": "Xã Dương Phong",
+      "full_name_en": "Duong Phong Commune",
+      "latitude": "",
+      "longitude": ""
+    },
+    "addressLine": "Bắc Kạn, Đắc Nông"
+  },
+  "discount": 0,
+  "shippingFee": 10,
+  "subTotal": 304,
+  "createdAt": {
+    "$date": "2024-07-26T15:58:46.502Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T15:59:01.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3c954f715c26a23d1cc4e"
+  },
+  "user": {
+    "$oid": "669f5931be83a04d9966037e"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "66a3c6d8f715c26a23d1c5fa"
+      },
+      "color": {
+        "$oid": "66a3c6d8f715c26a23d1c5fb"
+      },
+      "quantity": 1,
+      "itemPrice": 160,
+      "_id": {
+        "$oid": "66a3c954f715c26a23d1cc4f"
+      }
+    }
+  ],
+  "totalAmount": 170,
+  "paymentMethod": "cod",
+  "paymentStatus": "paid",
+  "orderStatus": "completed",
+  "shippingAddress": {
+    "firstName": "Phan Thanh",
+    "lastName": "Duy",
+    "email": "phanthanhduy2610@gmail.com",
+    "phoneNumber": "0344134844",
+    "city": {
+      "id": "06",
+      "name": "Bắc Kạn",
+      "name_en": "Bac Kan",
+      "full_name": "Tỉnh Bắc Kạn",
+      "full_name_en": "Bac Kan Province",
+      "latitude": "22.2571701",
+      "longitude": "105.8204437"
+    },
+    "district": {
+      "id": "063",
+      "name": "Bạch Thông",
+      "name_en": "Bach Thong",
+      "full_name": "Huyện Bạch Thông",
+      "full_name_en": "Bach Thong District",
+      "latitude": "22.20210065",
+      "longitude": "105.9357949031498"
+    },
+    "ward": {
+      "id": "02014",
+      "name": "Dương Phong",
+      "name_en": "Duong Phong",
+      "full_name": "Xã Dương Phong",
+      "full_name_en": "Duong Phong Commune",
+      "latitude": "",
+      "longitude": ""
+    },
+    "addressLine": "Bắc Kạn, Đắc Nông"
+  },
+  "discount": 0,
+  "shippingFee": 10,
+  "subTotal": 160,
+  "createdAt": {
+    "$date": "2024-07-26T16:05:40.646Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T16:05:53.506Z"
   },
   "__v": 0
 }]

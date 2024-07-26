@@ -452,8 +452,8 @@
   "_id": {
     "$oid": "668dea7ac0af5e150598b93c"
   },
-  "name": "Entryway",
-  "description": "Entryway",
+  "name": "Entryways",
+  "description": "Entryways",
   "imageUrl": "public\\uploads\\images\\1bdeabeb-a46e-4e23-ae6e-f1cf2df74903.webp",
   "parentId": "",
   "active": true,
@@ -461,9 +461,9 @@
     "$date": "2024-07-10T01:57:14.126Z"
   },
   "updatedAt": {
-    "$date": "2024-07-23T07:37:11.866Z"
+    "$date": "2024-07-26T13:44:54.290Z"
   },
-  "slug": "entryway",
+  "slug": "entryways",
   "__v": 0
 },
 {
@@ -752,5 +752,23 @@
     "$date": "2024-07-23T07:39:18.507Z"
   },
   "slug": "sconces",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3a86186ed134c2161e534"
+  },
+  "name": "Entryway",
+  "description": "Entryway",
+  "imageUrl": "public\\uploads\\images\\559ed5fd-d770-4e38-a0d0-ccf799743bb1.webp",
+  "parentId": "668dea7ac0af5e150598b93c",
+  "active": true,
+  "createdAt": {
+    "$date": "2024-07-26T13:45:05.992Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T15:47:46.145Z"
+  },
+  "slug": "entryway",
   "__v": 0
 }]
